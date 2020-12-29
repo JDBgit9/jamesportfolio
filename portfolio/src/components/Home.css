@@ -1,7 +1,4 @@
 
-
-  
-  
   .header {
     background-color: #3F729B;
     box-sizing: border-box;
@@ -19,13 +16,7 @@
     font-size: 25px;
     margin-left: 60px;
   }
-  
-  
-  .wrapper { 
-    background: #dba3a3;
-    margin: 0 auto;
-  
-  }
+
   
     
   .navbar {
@@ -36,7 +27,6 @@
   } 
   
   img {
-    float: left;
     margin: 10px;
     padding-left: 50px;
     width: 20px;
