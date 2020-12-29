@@ -1,12 +1,4 @@
-/* css for contact html  */
-.body {
-    background-image: url("../image/skylinewall.jpeg");
-    background-repeat: n;
-    background-size: cover;
-  }
-  /* .navbar {
-    background-color: #eee7e1;
-  } */
+
   .navbar {
     box-sizing: content-box;
     background-color: #ca782a;
