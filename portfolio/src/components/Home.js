@@ -16,7 +16,7 @@ function Home() {
     <div className="container-fluid">
     <div className="row">
     <div className="col-sm-3">
-    <a href="default.asp"><img src="./image/smirkhead.png" alt="my-headshot" style={{width: "400px", height: "400px"}} /></a>
+    <a href="default.asp"><img src="./image/smirkhead.png" alt="my-headshot" style={{width: "100%"}} /></a>
     </div>
     <div className="col-sm-9">
     <h4> My name is James, I am a Full-Stack Web Developer whose foundation is in the performing arts and I would like to welcome you to my digital portfolio. 
