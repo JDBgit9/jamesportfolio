@@ -15,7 +15,7 @@ function Home() {
     <div className="container">
     <div className="row">
     <div className="col-sm-3">
-    <a href="default.asp"><img src="assets/image/smirkhead.png" alt="my-headshot" style={{width: "400px", height: "400px"}} /></a>
+    <a href="default.asp"><img src="./image/smirkhead.png" alt="my-headshot" style={{width: "400px", height: "400px"}} /></a>
     </div>
     </div>
     
