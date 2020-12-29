@@ -1,0 +1,55 @@
+
+  .header {
+    background-color: #3F729B;
+    box-sizing: border-box;
+  
+  }
+  h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 55px;
+  color: rgb(255, 255, 255);
+  margin-left: 5%;
+  }
+  
+  h3 {
+    color: #3F729B;
+    font-size: 25px;
+    margin-left: 60px;
+  }
+
+  
+    
+  .navbar {
+    box-sizing: content-box;
+    background-color: #3F729B;
+    margin-top: auto;
+  
+  } 
+  
+  img {
+    margin: 10px;
+    padding-left: 50px;
+    width: 20px;
+    
+  }
+  
+    h4 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 15px;
+      color: white;
+      border: 0px;
+      margin: 20px 20px 20px 20px;
+     
+    }
+    
+    .footer {
+      position: relative;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #3F729B;
+      color: white;
+      text-align: center;
+   }
+  
+  
