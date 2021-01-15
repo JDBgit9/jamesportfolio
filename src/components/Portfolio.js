@@ -10,7 +10,6 @@ function Portfolio() {
      <a href={`${dir}/techres.png`}><img src="./image/nerdlook.png" style={{width: "30%"}}/><p>Click on image for Resume</p></a>
       <br/>
         <a href="https://aqueous-taiga-71567.herokuapp.com/"><img src="./image/brrger.png" style={{width: "60%"}}/><p>Click to play The Burger Game</p></a>
-
         <br/>
         <a href="https://jdbgit9.github.io/Weather-App/"><img src="./image/weatherapp2.png" style={{width: "60%"}}/><p/></a>
         <img src="./image/weatherapp1.png" style={{width: "65%"}} />

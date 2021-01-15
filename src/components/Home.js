@@ -15,10 +15,10 @@ function Home() {
     </div>
     <div className="container-fluid">
     <div className="row">
-    <div className="col-sm-3">
-    <a href="{`${dir}/certificate`}"><img src="./image/smirkhead.png" alt="Certification" style={{width: "100%"}} /><p>Click on image to view certificate</p></a>
+    <div>
+    <img src="./image/headshot2.png" style={{width: "30%"}} />
     </div>
-    <div className="col-sm-9">
+    <div className="col-sm-10">
     <h5> My name is James, I am a certified Full-Stack Web Developer who is a graduate of the University of Central Florida's Coding BootCamp program, and I welcome you to my digital portfolio. 
         I have worked on projects that require HTML, CSS, JS, Node.js, mySQl, NoSQL, Dbeaver, Mongodb, Sequlize, heroku, express, REACTjs, and more. You can check out some examples of my work in the portfolio tab on the top right corner of this page. You will also find some links to the virtual demo of some applications that I created as well.
    </h5>
