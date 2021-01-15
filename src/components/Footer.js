@@ -4,7 +4,7 @@ function Footer() {
     return (
 
         <div className="footer">
-            <p>James Beeks GitHub: JDBgit9 email: info@jamesdbeeks.com. &copy; 2020</p>
+            <p>James Beeks GitHub: JDBgit9 email: jdbwebdev@protonmail.com. &copy; 2020</p>
         </div>
     )
 }
