@@ -27,10 +27,11 @@ function Home() {
     <p>I grew up in Jacksonville, Florida and attended Douglas Anderson School Of the Arts, one of the nation's top Arts high schools to date. I am also an author with a new book titled "HisStory" to be released early 2021. I have been singing and performing on the Broadway stage and have always been very engaging with my audiences and will do the same in this new arena. 
         I have always been in a creative mind space as my foundation is in the performing arts and want to bring my creativity to the developer industry. I took some web design and new media courses a few years ago and am building my portfolio and gaining more knowledge each day as a developer. I am excited to see where this journey will take me and I am honored to be a part of your team.    
     </p>
+    <div className="col-sm-4">
+    <img src="./image/digitalbadge.png" style={{width: "50%"}} />
     </div>
     </div>
-    
-   
+    </div>
     </div>
         </div>
     )
