@@ -43,6 +43,7 @@ function Portfolio() {
     <img src="./image/sattelite2.jpeg" style={{width: "30%"}}/><a/>
     <a href="https://github.com/JDBgit9"><img src="./image/github logo1.jpeg" style={{width: "10%"}}/></a>
 </div>
+
     )
 }
 
