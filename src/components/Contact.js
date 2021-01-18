@@ -9,7 +9,7 @@ function Contact() {
     <h4>Contact Me</h4>
   <div className="row">
     <div className="col-md-8">
-      <form action="/action_page.php">
+    <form method="post" action="mailto:jdbwebdev@protonmail.com" >
         <label for="fname" style={{color: "seashell"}}>First Name</label>
         <input type="text" id="fname" name="firstname" placeholder="Your first name.." />
         <label for="lname" style={{color: "seashell"}}>Last Name</label>
@@ -22,7 +22,7 @@ function Contact() {
         </select>
         <label for="subject" style={{color: "seashell"}}>Subject</label>
         <textarea id="subject" name="subject" placeholder="Write something.." style={{height:"170px"}}></textarea>
-        <input type="submit" value="Submit" />
+        <input type="submit" value="Send Email" />
       </form>
       <br />
       <p>Follow me on linkedin</p>
