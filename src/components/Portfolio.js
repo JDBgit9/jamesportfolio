@@ -14,7 +14,7 @@ function Portfolio() {
         <a href="https://jdbgit9.github.io/Weather-App/"><img src="./image/weatherapp2.png" style={{width: "60%"}}/><p/></a>
         <img src="./image/weatherapp1.png" style={{width: "65%"}} />
         <br/>
-        <img src="./image/PWScreenshot.png" style={{width: "75%"}} />
+        <img src="./image/PasswordGen.png" style={{width: "75%"}} />
         <br/>
         <img src="./image/codequiz2.png" style={{width: "70%"}} />
     <img src="./image/codequiz3.png" style={{width: "50%"}} />
