@@ -7,7 +7,7 @@ function Portfolio() {
      
 <div>
     <h2>Portfolio</h2>
-     <a href={`${dir}/technicalresume.png`}><img src="./image/nerdlook.png" style={{width: "30%"}}/><p>Click on image for Resume</p></a>
+     <a href={`${dir}/techres.png`}><img src="./image/nerdlook.png" style={{width: "30%"}}/><p>Click on image for Resume</p></a>
       <br/>
         <a href="https://aqueous-taiga-71567.herokuapp.com/"><img src="./image/brrger.png" style={{width: "60%"}}/><p>Click to play The Burger Game</p></a>
         <br/>
