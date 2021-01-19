@@ -27,7 +27,7 @@ function Contact() {
       <br />
       <p>Follow me on linkedin</p>
       <div className="col-md-8-text-center">
-        <a href="https://www.linkedin.com/in/jamesdbeeks/"><img src="./image/linkedin.jpeg" style={{width: "10%", padding: "0px"}} /></a>
+        <a href="https://www.linkedin.com/in/jamesdbeeks/"><img src="./image/linkedin.jpeg" style={{width: "10%", padding: "0px", margin: "7%"}} /></a>
       </div>
     </div>
   </div>
