@@ -11,6 +11,9 @@
 h1 {
     size: 4px;
 }
+h2 {
+  color: aliceblue;
+}
 h4 {
   color: white;
   font-size: 30px;
