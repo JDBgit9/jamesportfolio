@@ -11,14 +11,24 @@ function Portfolio() {
         <p>Click on image for Resume</p>
       </a>
       <br />
+      <img src="./image/memberspage.png" style={{ width: "40%" }} />
+      <a href="https://quiet-earth-28574.herokuapp.com/">
+        <img src="./image/artbook.png" style={{ width: "40%" }} />
+      </a>
+     
       <a href="https://aqueous-taiga-71567.herokuapp.com/">
-        <img src="./image/brrger.png" style={{ width: "60%" }} />
+        <img src="./image/brrger.png" style={{ width: "40%" }} />
         <p>Click to play The Burger Game</p>
       </a>
       <br />
       <a href="https://jdbgit9.github.io/Weather-App/">
-        <img src="./image/weatherapp2.png" style={{ width: "50%" }} />
+        <img src="./image/weatherapp2.pn" style={{ width: "40%" }} />
         <p />
+      </a>
+       
+      <a href="https://damp-journey-73235.herokuapp.com/">
+        <img src="./image/fitnesstracker.png" style={{ width: " 40" }} />
+        Hello
       </a>
       <br />
       <img src="./image/PasswordGen.png" style={{ width: "50%" }} />
@@ -29,21 +39,7 @@ function Portfolio() {
       <img src="./image/md8.png" style={{ width: "50%" }} />
       <img src="./image/md10.png" style={{ width: "50%" }} />
        <br />
-       <img src="./image/memberspage.png" style={{ width: "50%" }} />
-      <a href="https://www.youtube.com/watch?v=hSzeb8MQkck&feature=youtu.be">
-        <img src="./image/artbook.png" style={{ width: "50%" }} />
-      </a>
-      <a href="https://quiet-earth-28574.herokuapp.com/">
-        <img src="./image/artbook.png" style={{ width: " 50" }} />
-      </a>
       
-      <a href="https://damp-journey-73235.herokuapp.com/">
-        <img src="./image/fitnesstracker.png" style={{ width: " 50" }} />
-      </a>
-      <img src="./image/onepage.png" style={{ width: "50%" }} />
-      <a />
-      <img src="./image/pageturn.png" style={{ width: "50%" }} />
-      <a />
       <div class="column" />
     
       <a />
