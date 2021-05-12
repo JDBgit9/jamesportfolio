@@ -30,18 +30,18 @@ function Portfolio() {
       <img src="./image/moviedine3.png" style={{ width: "50%" }} />
       <img src="./image/moviedine4.png" style={{ width: "50%" }} />
       <img src="./image/moviedine5.png" style={{ width: "50%" }} />
-      <img src="./image/moviedine6.png" style={{ width: "55%" }} />
+      <img src="./image/moviedine6.png" style={{ width: "50%" }} />
       <img src="./image/moviedine7.png" style={{ width: "50%" }} />
-      <img src="./image/md8.png" style={{ width: "60%" }} />
+      <img src="./image/md8.png" style={{ width: "50%" }} />
       <img src="./image/md9.png" style={{ width: "50%" }} />
-      <img src="./image/md10.png" style={{ width: "45%" }} />
-      <img src="./image/md11.png" style={{ width: "80%" }} />
+      <img src="./image/md10.png" style={{ width: "50%" }} />
+      <img src="./image/md11.png" style={{ width: "50%" }} />
       <br />
       <a href="https://www.youtube.com/watch?v=hSzeb8MQkck&feature=youtu.be">
-        <img src="./image/artbook.png" style={{ width: "80%" }} />
+        <img src="./image/artbook.png" style={{ width: "50%" }} />
       </a>
       <a href="https://quiet-earth-28574.herokuapp.com/">
-        <img src="./image/artbook.png" style={{ width: " 65" }} />
+        <img src="./image/artbook.png" style={{ width: " 50" }} />
       </a>
       <img src="./image/memberspage.png" style={{ width: "30%" }} />
       <a />
