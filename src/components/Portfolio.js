@@ -20,6 +20,9 @@ function Portfolio() {
       <a href="https://damp-journey-73235.herokuapp.com/">
       <img src="./image/fitnesstracker.png" style={{ width: "45%" }} />
       </a>
+      <a href="https://notetakermon.herokuapp.com/">
+      <img src="./image/notetaker.png" style={{ width: "45%" }} />
+      </a>
       <a href="https://aqueous-taiga-71567.herokuapp.com/">
         <img src="./image/brrger.png" style={{ width: "45%" }} />
       </a>
