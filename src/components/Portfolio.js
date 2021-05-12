@@ -37,13 +37,15 @@ function Portfolio() {
         <img src="./image/artbook.png" style={{ width: " 50" }} />
       </a>
       
-      <a />
-      <img src="./image/onepage.png" style={{ width: "55%" }} />
+      <a href="https://damp-journey-73235.herokuapp.com/">
+        <img src="./image/fitnesstracker.png" style={{ width: " 50" }} />
+      </a>
+      <img src="./image/onepage.png" style={{ width: "50%" }} />
       <a />
       <img src="./image/pageturn.png" style={{ width: "50%" }} />
       <a />
       <div class="column" />
-      <img src="./image/JCSBWW.jpeg" style={{ width: "50%" }} />
+    
       <a />
       <img src="./image/sattelite1.jpeg" style={{ width: "50%" }} />
       <a />
@@ -51,6 +53,7 @@ function Portfolio() {
       <a />
       <a href="https://github.com/JDBgit9">
         <img src="./image/github logo1.jpeg" style={{ width: "20%" }} />
+        <img src="./image/JCSBWW.jpeg" style={{ width: "50%" }} />
       </a>
     </div>
   );
