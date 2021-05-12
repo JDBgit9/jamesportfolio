@@ -38,19 +38,19 @@ function Portfolio() {
       </a>
       
       <a />
-      <img src="./image/onepage.png" style={{ width: "45%" }} />
+      <img src="./image/onepage.png" style={{ width: "55%" }} />
       <a />
-      <img src="./image/pageturn.png" style={{ width: "60%" }} />
+      <img src="./image/pageturn.png" style={{ width: "50%" }} />
       <a />
       <div class="column" />
-      <img src="./image/JCSBWW.jpeg" style={{ width: "30%" }} />
+      <img src="./image/JCSBWW.jpeg" style={{ width: "50%" }} />
       <a />
-      <img src="./image/sattelite1.jpeg" style={{ width: "30%" }} />
+      <img src="./image/sattelite1.jpeg" style={{ width: "50%" }} />
       <a />
-      <img src="./image/sattelite2.jpeg" style={{ width: "30%" }} />
+      <img src="./image/sattelite2.jpeg" style={{ width: "50%" }} />
       <a />
       <a href="https://github.com/JDBgit9">
-        <img src="./image/github logo1.jpeg" style={{ width: "10%" }} />
+        <img src="./image/github logo1.jpeg" style={{ width: "20%" }} />
       </a>
     </div>
   );
