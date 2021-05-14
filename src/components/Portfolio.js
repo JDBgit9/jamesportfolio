@@ -5,21 +5,21 @@ function Portfolio() {
   const dir = "./image";
   return (
     <div>
-      <h2>My Portfolio</h2>
+      <h3>My Portfolio</h3>
       <br />
-      <p>These are projects I have created and/or have worked on. Click on images to take you to the application. Have fun but dont forget to come back.</p>
+      <p>These are projects I have created and/or have worked on. Click on images to take you to the application. Have fun but dont forget to come back. Resume below.</p>
       
+      <a href="https://jdbgit9.github.io/Weather-App/">
+        <img src="./image/weatherapp2.png" style={{ width: "45%" }} />
+      </a> 
+      <a href="https://damp-journey-73235.herokuapp.com/">
+      <img src="./image/fitnesstracker.png" style={{ width: "45%" }} />
+      </a> 
       <a href="https://memebate.herokuapp.com/">
         <img src="./image/memebate.png" style={{ width: "45%" }} />
       </a>
       <a href="https://quiet-earth-28574.herokuapp.com/login">
       <img src="./image/memberspage.png" style={{ width: "45%" }} />
-      </a>
-      <a href="https://jdbgit9.github.io/Weather-App/">
-        <img src="./image/weatherapp2.png" style={{ width: "45%" }} />
-      </a>  
-      <a href="https://damp-journey-73235.herokuapp.com/">
-      <img src="./image/fitnesstracker.png" style={{ width: "45%" }} />
       </a>
       <a href="https://notetakermon.herokuapp.com/">
       <img src="./image/notetaker.png" style={{ width: "45%" }} />
