@@ -5,7 +5,7 @@ import "./Home.css";
 function Home() {
     return (
         <div>
-              <h3>About Me</h3>
+              <h5>About Me</h5>
     <div className="wrapper">
         <div className="container-mt-4">
             <div className="row">
@@ -20,7 +20,7 @@ function Home() {
     <img src="./image/headshot2.png" style={{width: "100%"}} />
     </div>
     <div className="col-sm-9">
-    <p> Welcome you to my digital portfolio. My name is James and I am a certified Full-Stack Web Developer who is a graduate of the University of Central Florida with a degree in Coding. 
+    <p> Welcome you to my digital portfolio. My name is James and I am a certified Full-Stack Web Developer who is a graduate of the University of Central Florida with a certificate degree in Coding. 
         I have worked on projects that require HTML, CSS, JS, Node.js, mySQl, NoSQL, Dbeaver, Mongodb, Sequelize, Heroku, express, REACTjs, and more. You can view some examples of my work in the portfolio tab on the top right corner of this page. 
    </p>
     <br />
