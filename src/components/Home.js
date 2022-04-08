@@ -21,7 +21,7 @@ function Home() {
     </div>
     <div className="col-sm-9">
     <p> My name is James and I am a certified Full-Stack Web Developer who is a graduate of the University of Central Florida with a certificate degree in Coding. 
-        I have worked on projects that require HTML, CSS, JS, Node.js, mySQl, NoSQL, Dbeaver, Mongodb, Sequelize, Heroku, express, REACTjs, and more. You can view some examples of my work in the portfolio tab on the top right corner of this page. 
+        I have worked on projects that require HTML, CSS, JS, Node.js, mySQl, NoSQL, Dbeaver, Mongodb, Sequelize, Yarn, Heroku, express, REACTjs, and more. You can view some examples of my work in the portfolio tab on the top right corner of this page. 
    </p>
     <br />
     <p> 
