@@ -25,7 +25,7 @@ function Home() {
     </p>
        <p><br>
         You can view some examples of my work in the portfolio tab on the top right corner of this page. 
-        </br>
+        <br />
    </p>
     <br />
     <p> 
