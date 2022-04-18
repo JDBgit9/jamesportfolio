@@ -11,6 +11,10 @@ function Portfolio() {
       
       <a href="https://jdbgit9.github.io/Weather-App/">
         <img src="./image/weatherapp2.png" style={{ width: "60%" }} />
+        
+      <a href="https://jdbgit9.github.io/StreamGrub/">
+        <img src="./image/moviedine2.png" style={{ width: "60%" }} />
+        </a>
       </a> 
       <a href="https://jdbgit9.github.io/Workout-Tracker/">
       <img src="./image/fitnesstracker.png" style={{ width: "60%" }} />
@@ -27,10 +31,6 @@ function Portfolio() {
       <a href="https://aqueous-taiga-71567.herokuapp.com/">
         <img src="./image/brrger.png" style={{ width: "60%" }} />
       </a>
-    
-      <a href="https://jdbgit9.github.io/StreamGrub/">
-        <img src="./image/moviedine2.png" style={{ width: "60%" }} />
-        </a>
        <br />
       
       <div class="column" />
