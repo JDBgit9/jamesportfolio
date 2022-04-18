@@ -16,7 +16,7 @@ function Portfolio() {
       <img src="./image/fitnesstracker.png" style={{ width: "60%" }} />
       </a> 
       <a href="https://memebate.herokuapp.com/">
-        <img src="./image/memebate.png" style={{ width: "45%" }} />
+        <img src="./image/memebate.png" style={{ width: "60%" }} />
       </a>
       <a href="https://quiet-earth-28574.herokuapp.com/login">
       <img src="./image/memberspage.png" style={{ width: "45%" }} />
