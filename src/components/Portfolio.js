@@ -7,7 +7,7 @@ function Portfolio() {
     <div>
       <h3>My Portfolio</h3>
       <br />
-      <p>These are projects I have created and/or have worked on. Click on images to take you to the application. Have fun but dont forget to come back. Resume below.</p>
+      <p>Below you will find some recent projects I have created and/or have worked on. Scroll and lick on the images to take you to that particular application for your perusal. Enjoy, but dont forget to come back here. Resume below.</p>
       
       <a href="https://jdbgit9.github.io/Weather-App/">
         <img src="./image/weatherapp2.png" style={{ width: "60%" }} />

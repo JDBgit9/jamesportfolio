@@ -3,8 +3,8 @@ import React from 'react'
 
 function Certificate() {
     return (
-        <div>
-          <img src="./image/certificate.png" style={{width: "100%"}} />
+        <div className="col-lg-12-center">
+          <img src="./image/certificate.png" style={{width: "60%"}} />
         </div>
     )
 }
