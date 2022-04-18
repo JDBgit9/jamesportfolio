@@ -22,7 +22,7 @@ function Portfolio() {
       <img src="./image/memberspage.png" style={{ width: "60%" }} />
       </a>
       <a href="https://jdbgit9.github.io/Note-Taker/">
-      <img src="./image/notetaker.png" style={{ width: "45%" }} />
+      <img src="./image/notetaker.png" style={{ width: "60%" }} />
       </a>
       <a href="https://aqueous-taiga-71567.herokuapp.com/">
         <img src="./image/brrger.png" style={{ width: "45%" }} />
