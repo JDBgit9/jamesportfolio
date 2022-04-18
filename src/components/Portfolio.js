@@ -29,9 +29,8 @@ function Portfolio() {
       </a>
     
       <a href="https://jdbgit9.github.io/StreamGrub/">
-        <img src="./image/moviedine2.png" style={{ width: "60%" }} /></a>
-      
-      <img src="./image/md10.png" style={{ width: "45%" }} />
+        <img src="./image/moviedine2.png" style={{ width: "60%" }} />
+        </a>
        <br />
       
       <div class="column" />
