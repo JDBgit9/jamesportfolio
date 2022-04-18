@@ -43,7 +43,7 @@ function Portfolio() {
       <a href="https://github.com/JDBgit9">
         <img src="./image/github logo1.jpeg" style={{ width: "20%" }} />
       </a>
-      <a href={`${dir}/TechRes221.png`}>
+      <a href={`${dir}/TechRes221.png`} style={{ width: "60%" }}>
         <img src="./image/nerdlook.png" style={{ width: "30%" }} />
         <p>Click on image for Resume</p>
       </a>
