@@ -13,7 +13,7 @@ function Portfolio() {
         <img src="./image/weatherapp2.png" style={{ width: "60%" }} />
       </a> 
       <a href="https://jdbgit9.github.io/Workout-Tracker/">
-      <img src="./image/fitnesstracker.png" style={{ width: "45%" }} />
+      <img src="./image/fitnesstracker.png" style={{ width: "60%" }} />
       </a> 
       <a href="https://memebate.herokuapp.com/">
         <img src="./image/memebate.png" style={{ width: "45%" }} />
