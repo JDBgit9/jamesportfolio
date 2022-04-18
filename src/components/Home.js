@@ -17,7 +17,7 @@ function Home() {
     <div className="container-fluid">
     <div className="row">
     <div className="col-sm-3">
-    <img src="./image/headshot2.png" style={{width: "100%"}} />
+    <img src="./image/portfolioicon.jpg" style={{width: "100%"}} />
     </div>
     <div className="col-sm-9">
     <p> My name is James and I am a certified Full-Stack Web Developer who is a graduate of the University of Central Florida with a certificate degree in Coding. 
