@@ -10,7 +10,7 @@ function Portfolio() {
       <p>These are projects I have created and/or have worked on. Click on images to take you to the application. Have fun but dont forget to come back. Resume below.</p>
       
       <a href="https://jdbgit9.github.io/Weather-App/">
-        <img src="./image/weatherapp2.png" style={{ width: "45%" }} />
+        <img src="./image/weatherapp2.png" style={{ width: "60%" }} />
       </a> 
       <a href="https://jdbgit9.github.io/Workout-Tracker/">
       <img src="./image/fitnesstracker.png" style={{ width: "45%" }} />
