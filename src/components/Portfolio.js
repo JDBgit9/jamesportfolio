@@ -25,10 +25,11 @@ function Portfolio() {
       <img src="./image/notetaker.png" style={{ width: "60%" }} />
       </a>
       <a href="https://aqueous-taiga-71567.herokuapp.com/">
-        <img src="./image/brrger.png" style={{ width: "45%" }} />
+        <img src="./image/brrger.png" style={{ width: "60%" }} />
       </a>
     
-      <a href="https://jdbgit9.github.io/StreamGrub/"><img src="./image/moviedine2.png" style={{ width: "45%" }} /></a>
+      <a href="https://jdbgit9.github.io/StreamGrub/">
+        <img src="./image/moviedine2.png" style={{ width: "60%" }} /></a>
       <img src="./image/md8.png" style={{ width: "45%" }} />
       <img src="./image/md10.png" style={{ width: "45%" }} />
        <br />
