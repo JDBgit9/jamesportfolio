@@ -34,7 +34,7 @@ function Portfolio() {
        <br />
       
       <div class="column" />
-    
+     <p>Here is some of my artwork</p>
       <a />
       <img src="./image/sattelite1.jpeg" style={{ width: "60%" }} />
       <a />
