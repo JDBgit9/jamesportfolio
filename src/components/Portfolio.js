@@ -33,6 +33,7 @@ function Portfolio() {
       <a href="https://quiet-earth-28574.herokuapp.com/login">
       <img src="./image/memberspage.png" style={{ width: "60%" }} />
       </a>
+      <h5>Note Taker</h5>
       <a href="https://jdbgit9.github.io/Note-Taker/">
       <img src="./image/notetaker.png" style={{ width: "60%" }} />
       </a>
