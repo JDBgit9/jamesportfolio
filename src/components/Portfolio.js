@@ -7,7 +7,7 @@ function Portfolio() {
     <div>
       <h3>My Portfolio</h3>
       <br />
-      <p>Scroll down and click on the images to take you to that particular application for your perusal. Enjoy, but dont forget to come back here. Resume below.</p>
+      <p>Scroll down and click on the images to take you the application for your perusal. Enjoy!</p>
       
       <h5>The Weather App</h5>
       <a href="https://jdbgit9.github.io/Weather-App/">
