@@ -9,6 +9,7 @@ function Portfolio() {
       <br />
       <p>Scroll down and click on the images to take you to that particular application for your perusal. Enjoy, but dont forget to come back here. Resume below.</p>
       
+      <h5>The Weather App</h5>
       <a href="https://jdbgit9.github.io/Weather-App/">
         <img src="./image/weatherapp2.png" style={{ width: "60%" }} />
         
