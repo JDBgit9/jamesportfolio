@@ -1,6 +1,6 @@
 
   .header {
-    background-color: #06294f;
+    background-color: #141c26;
     box-sizing: border-box;
   
   }
@@ -24,7 +24,7 @@ h4 {
     
   .navbar {
     box-sizing: content-box;
-    background-color: #06294f;
+    background-color: #0141c26;
     margin-top: auto;
   
   } 
@@ -59,7 +59,7 @@ h4 {
       left: 0;
       bottom: 0;
       width: 100%;
-      background-color: #031e3c;
+      background-color: #;
       color: white;
       text-align: center;
    }
