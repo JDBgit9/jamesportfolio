@@ -6,7 +6,7 @@ function Header() {
              <nav className="navbar navbar-expand-lg navbar-light bg-grey">
         <div className="container">
             <a href="/" className="navbar-brand header">
-                <h2>James Justis</h2></a>
+                <h1>James Justis</h1></a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
