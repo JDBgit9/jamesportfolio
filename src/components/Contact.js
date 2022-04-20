@@ -17,7 +17,7 @@ function Contact() {
         <label for="country" style={{color: "seashell"}}>Country</label>
         <select id="country" name="Country/Region" >
           <option value="USA">USA</option>
-          <option value="USA">USA</option>
+          <option value="Antarctica">Antarctica</option>
           <option value="Asia">Asia</option>
           <option value="Australia">Australia</option>
           <option value="Brazil">Brazil</option>
