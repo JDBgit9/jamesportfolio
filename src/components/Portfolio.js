@@ -49,7 +49,7 @@ function Portfolio() {
        <br />
       
       <div class="column" />
-     <a href="./Artwork.js"><p>Here is some of my artwork</p></a>
+     <a className="nav-link" href="/artwork"><p>Here is some of my artwork</p></a>
      
       <img src="./image/sattelite2.jpeg" style={{ width: "60%" }} />
       <a />
@@ -59,7 +59,7 @@ function Portfolio() {
         <p>Check out my Github ☝</p>
       </a>
       <a href={`${dir}/TechRes221.png`}>
-        
+
        <p>Click on image below for Resume 👇</p>
       </a>
     </div>
