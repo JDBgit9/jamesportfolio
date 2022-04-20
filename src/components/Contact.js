@@ -19,6 +19,7 @@ function Contact() {
           <option value="australia">Australia</option>
           <option value="canada">Canada</option>
           <option value="usa">USA</option>
+          <option value="Germany"></option>
         </select>
         <label for="subject" style={{color: "seashell"}}>Subject</label>
         <textarea id="subject" name="subject" placeholder="Write something.." style={{height:"170px"}}></textarea>
