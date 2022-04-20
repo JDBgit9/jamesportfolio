@@ -15,7 +15,7 @@ function Contact() {
         <label for="lname" style={{color: "seashell"}}>Last Name</label>
         <input type="text" id="lname" name="lastname" placeholder="Your last name.." />
         <label for="country" style={{color: "seashell"}}>Country</label>
-        <select id="country" name="country" >
+        <select id="country" name="Country/Region" >
           <option value="USA">USA</option>
           <option value="Australia">Australia</option>
           <option value="Brazil">Brazil</option>
