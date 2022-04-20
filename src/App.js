@@ -7,6 +7,7 @@ import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Certificate from "./components/Certificate"
+import Artwork from './components/Artwork';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Route path="/portfolio">
           <Portfolio />
           <Certificate/>
+          <Artwork/>
         </Route>
         <Route path="/">
           <Home/>

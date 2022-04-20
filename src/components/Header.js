@@ -15,6 +15,7 @@ function Header() {
                 <div className="navbar-nav">
                     <a className="nav-link active" href="/"><span className="sr-only">(current)</span></a>
                     <a className="nav-link" href="/portfolio"><h3>Portfolio</h3></a>
+                    <a className="nav-link" href="/artwork"><h3>Artwork</h3></a>
                     <a className="nav-link" href="/contact"><h3>Contact</h3></a>
                 </div>
             </div>

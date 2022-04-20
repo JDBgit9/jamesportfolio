@@ -11,10 +11,8 @@ function Portfolio() {
        <hr />
       <h5>The Weather App</h5><p>Check the weather in your area...HTML/CSS/JS</p> 
       <a href="https://jdbgit9.github.io/Weather-App/">
-        <img src="./image/weatherapp2.png" style={{ width: "60%" }} />
-        
+        <img src="./image/weatherapp2.png" style={{ width: "60%" }} />  
         </a> 
-
        <h5>StreamGrub</h5> 
       <a href="https://jdbgit9.github.io/StreamGrub/">
         <img src="./image/moviedine2.png" style={{ width: "60%" }} /></a>
@@ -51,7 +49,7 @@ function Portfolio() {
        <br />
       
       <div class="column" />
-     <a href= {`${dir}/Artwork.js`}><p>Here is some of my artwork</p></a>
+     <a href="./Artwork.js"><p>Here is some of my artwork</p></a>
      
       <img src="./image/sattelite2.jpeg" style={{ width: "60%" }} />
       <a />
@@ -61,6 +59,7 @@ function Portfolio() {
         <p>Check out my Github ☝</p>
       </a>
       <a href={`${dir}/TechRes221.png`}>
+        
        <p>Click on image below for Resume 👇</p>
       </a>
     </div>
