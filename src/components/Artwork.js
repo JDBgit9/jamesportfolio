@@ -11,3 +11,4 @@ function Artwork() {
         </div>
     )
 }
+export default Artwork;
