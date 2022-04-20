@@ -19,7 +19,7 @@ function Portfolio() {
         <img src="./image/moviedine2.png" style={{ width: "60%" }} /></a>
 
         <a href="https://jdbgit9.github.io/Password-Generator/">
-          <img src="./image/passworgen.jpeg" style={{width: "60%" }}/></a>
+          <img src="./image/passwordgen.png" style={{width: "60%" }}/></a>
 
         <h5>BurgerTime</h5>
         <a href="https://aqueous-taiga-71567.herokuapp.com/">
