@@ -25,6 +25,7 @@ function Contact() {
           <option value="Germany">Germany</option>
           <option value="India">India</option>
           <option value="Japan">Japan</option>
+          <option value="Korea">Korea</option>
           <option value="Mexico">Mexico</option>
           <option value="Russia">Russia</option>
           <option value="South Africa">South Africa</option>
