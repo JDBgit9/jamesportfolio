@@ -17,10 +17,13 @@ function Portfolio() {
        <h5>StreamGrub</h5> 
       <a href="https://jdbgit9.github.io/StreamGrub/">
         <img src="./image/moviedine2.png" style={{ width: "60%" }} /></a>
+        
         <h5>Password Generator</h5>
-
         <a href="https://jdbgit9.github.io/Password-Generator/">
-          <img src="./image/passwordgen.png" style={{width: "60%" }}/></a>
+          <img src="./image/passwordgen.png" style={{width: "60%" }}/>
+          </a>
+          <h5>Code Quiz</h5>
+          <
 
         <h5>BurgerTime</h5>
         <a href="https://aqueous-taiga-71567.herokuapp.com/">
