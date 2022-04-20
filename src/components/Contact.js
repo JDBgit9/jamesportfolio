@@ -16,14 +16,15 @@ function Contact() {
         <input type="text" id="lname" name="lastname" placeholder="Your last name.." />
         <label for="country" style={{color: "seashell"}}>Country</label>
         <select id="country" name="country" >
-          <option value="australia">Australia</option>
-          <option value="canada">Canada</option>
+          <option value="Australia">Australia</option>
+          <option value="Canada">Canada</option>
           <option value="USA">USA</option>
           <option value="France">France</option>
           <option value="Germany">Germany</option>
           <option value="Russia">Russia</option>
           <option value="UK">UK</option>
           
+
         </select>
         <label for="subject" style={{color: "seashell"}}>Subject</label>
         <textarea id="subject" name="subject" placeholder="Write something.." style={{height:"170px"}}></textarea>
