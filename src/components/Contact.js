@@ -18,12 +18,14 @@ function Contact() {
         <select id="country" name="country" >
           <option value="Australia">Australia</option>
           <option value="Canada">Canada</option>
+          <option value="China">China</option>
           <option value="USA">USA</option>
           <option value="France">France</option>
           <option value="Germany">Germany</option>
           <option value="Russia">Russia</option>
           <option value="UK">UK</option>
           
+
 
         </select>
         <label for="subject" style={{color: "seashell"}}>Subject</label>
