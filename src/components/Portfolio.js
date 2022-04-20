@@ -49,9 +49,7 @@ function Portfolio() {
        <br />
       
       <div class="column" />
-     <a className="nav-link" href="/artwork"><p>Here is some of my artwork</p></a>
-     
-    
+     <a className="nav-link" href="/artwork"><h4>Here is some of my artwork</h4></a>
       <a />
       <img src="./image/nerdlook.png" style={{ width: "30%" }} />
       <a href="https://github.com/JDBgit9">
