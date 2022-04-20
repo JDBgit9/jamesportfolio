@@ -16,10 +16,10 @@ function Contact() {
         <input type="text" id="lname" name="lastname" placeholder="Your last name.." />
         <label for="country" style={{color: "seashell"}}>Country</label>
         <select id="country" name="country" >
+          <option value="USA">USA</option>
           <option value="Australia">Australia</option>
           <option value="Canada">Canada</option>
           <option value="China">China</option>
-          <option value="USA">USA</option>
           <option value="France">France</option>
           <option value="Germany">Germany</option>
           <option value="Russia">Russia</option>
