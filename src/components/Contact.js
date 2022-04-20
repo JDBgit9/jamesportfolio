@@ -20,6 +20,7 @@ function Contact() {
           <option value="Australia">Australia</option>
           <option value="Brazil">Brazil</option>
           <option value="Canada">Canada</option>
+          <option value="Central America">Central America</option>
           <option value="China">China</option>
           <option value="France">France</option>
           <option value="Germany">Germany</option>
