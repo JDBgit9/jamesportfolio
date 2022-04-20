@@ -25,6 +25,10 @@ function Portfolio() {
           <a href="https://jdbgit9.github.io/Code-Quiz/index.html">
             <img src="./image/codequiz.png" style={{width: "60%"}}/>
           </a>
+          <h5>ArtRoom</h5>
+      <a href="https://theartroom.herokuapp.com/">
+      <img src="./image/memberspage.png" style={{ width: "60%" }} />
+      </a>
 
         <h5>BurgerTime</h5>
         <a href="https://aqueous-taiga-71567.herokuapp.com/">
@@ -34,10 +38,7 @@ function Portfolio() {
       <a href="https://jdbgit9.github.io/Workout-Tracker/">
       <img src="./image/fitnesstracker.png" style={{ width: "60%" }} />
       </a> 
-      <h5>ArtRoom</h5>
-      <a href="https://theartroom.herokuapp.com/">
-      <img src="./image/memberspage.png" style={{ width: "60%" }} />
-      </a>
+     
       <h5>MemeBate</h5>
       <a href="https://memebate.herokuapp.com/">
         <img src="./image/memebate.png" style={{ width: "60%" }} />
