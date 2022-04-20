@@ -18,6 +18,7 @@ function Contact() {
         <select id="country" name="country" >
           <option value="USA">USA</option>
           <option value="Australia">Australia</option>
+          <option value="Brazil">Brazil</option>
           <option value="Canada">Canada</option>
           <option value="China">China</option>
           <option value="France">France</option>
