@@ -52,9 +52,7 @@ function Portfolio() {
       
       <div class="column" />
      <p>Here is some of my artwork</p>
-      <a />
-      <img src="./image/sattelite1.jpeg" style={{ width: "60%" }} />
-      <a />
+     
       <img src="./image/sattelite2.jpeg" style={{ width: "60%" }} />
       <a />
       <img src="./image/nerdlook.png" style={{ width: "30%" }} />
