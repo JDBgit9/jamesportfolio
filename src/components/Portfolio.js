@@ -51,7 +51,7 @@ function Portfolio() {
        <br />
       
       <div class="column" />
-     <a href=""><p>Here is some of my artwork</p></a>
+     <a href= {`${dir}/Artwork.js`}><p>Here is some of my artwork</p></a>
      
       <img src="./image/sattelite2.jpeg" style={{ width: "60%" }} />
       <a />
