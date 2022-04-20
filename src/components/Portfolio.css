@@ -9,6 +9,11 @@
     margin: 30px;
   }
 
+  .hr {
+    color: antiquewhite;
+    border-top: 3px;
+  }
+
   h3 {
     color: gold
   }

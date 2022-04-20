@@ -8,9 +8,8 @@ function Portfolio() {
       <h3>My Portfolio</h3>
       <br />
       <p>Scroll down and click on the images to take you the application for your perusal. Enjoy!</p>
-      <p>---------------------------------------</p>
-      <h5>The Weather App</h5>
-      <p>Check the weather in your area...HTML/CSS/JS</p>
+       <hr />
+      <h5>The Weather App</h5><p>Check the weather in your area...HTML/CSS/JS</p> 
       <a href="https://jdbgit9.github.io/Weather-App/">
         <img src="./image/weatherapp2.png" style={{ width: "60%" }} />
         
