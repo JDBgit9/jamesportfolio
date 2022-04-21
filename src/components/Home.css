@@ -45,11 +45,11 @@ h4 {
      
     }
     
-    .center{
-      text-align: center;
+    .left {
+      text-align: left;
       display: block;
-      justify-content: center;
-      align-items: center;
+      justify-content: left;
+      align-items: left;
       margin: auto;
       width: 100%;
     }
