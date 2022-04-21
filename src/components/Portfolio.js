@@ -57,7 +57,7 @@ function Portfolio() {
         <img src="./image/github logo1.jpeg" style={{ width: "20%" }} />
         <p>Check out my Github ☝</p>
       </a>
-      <a href={`${dir}/TechRes221.png`}>
+      <a href={`${dir}/techres2022.png`}>
 
        <p>Click on image below for Resume 👇</p>
       </a>
