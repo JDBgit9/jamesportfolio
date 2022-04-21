@@ -50,8 +50,7 @@ function Portfolio() {
        <br />
       
       <div class="column" />
-     <a className="nav-link" href="/artwork"><h4>Click here for artwork</h4></a>
-      <a />
+   
       <img src="./image/nerdlook.png" style={{ width: "30%" }} />
       <a href="https://github.com/JDBgit9">
         <img src="./image/github logo1.jpeg" style={{ width: "20%" }} />
@@ -61,6 +60,8 @@ function Portfolio() {
 
        <p>Click here for Resume 👇</p>
       </a>
+      <a className="nav-link" href="/artwork"><h4>Click here for artwork</h4></a>
+      <a />
     </div>
   );
 }
