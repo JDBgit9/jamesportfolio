@@ -25,10 +25,14 @@ function Home() {
         You can view examples of my work in the portfolio tab on the top right corner of this page. 
     </p>
     <br />
-    <p> 
-        I am a problem solver, a fast learner, and very professional with strong wit, so I am a blast to be around. I have always been in a creative mind space as my foundation is in the performing arts and want to bring my creativity to the developer industry. I took some web design and new media courses a few years ago and am building my portfolio and gaining more knowledge each day as a developer. I am excited to see where this journey will take me and I am honored to be a part of your team.    
+    <
+    <div className="col-sm-4-center">p> 
+        I am a problem solver, a fast learner, and very professional with strong wit, 
+        so I am a blast to be around. I have always been in a creative mind space as my 
+        foundation is in the performing arts and want to bring my creativity to the developer industry. 
+        I took some web design and new media courses a few years ago and am building my portfolio and 
+        gaining more knowledge each day as a developer.     
     </p>
-    <div className="col-sm-4-center">
     <img src="./image/digitalbadge.png" style={{width: "20%"}} class="center" />
     </div>
     </div>
