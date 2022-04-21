@@ -47,7 +47,9 @@ function Portfolio() {
       <a href="https://jdbgit9.github.io/Note-Taker/">
       <img src="./image/notetaker.png" style={{ width: "60%" }} />
       </a>
-       <br />  
+       <br /> 
+       <a href={`${dir}/techres2022.png`}><h5>Click here for my Resume 👈</h5>
+      </a> 
       <div class="column" />
       <img src="./image/nerdlook.png" style={{ width: "30%" }} />
       <a href="https://github.com/JDBgit9">
@@ -55,8 +57,7 @@ function Portfolio() {
         <h6>Check out my Github 👈</h6>
       </a>
       <img src="./image/digitalbadge.png" style={{width: "15%"}} class="left" />
-      <a href={`${dir}/techres2022.png`}><h5>Click here for my Resume 👈</h5>
-      </a>
+     
       <a className="nav-link" href="/artwork"><h4>Click here for Artwork 👈</h4></a>
       <a />
     </div>
