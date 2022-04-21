@@ -50,7 +50,7 @@ function Portfolio() {
        <br />
       
       <div class="column" />
-     <a className="nav-link" href="/artwork"><h4>Here is some of my artwork</h4></a>
+     <a className="nav-link" href="/artwork"><h4>Click here for artwork</h4></a>
       <a />
       <img src="./image/nerdlook.png" style={{ width: "30%" }} />
       <a href="https://github.com/JDBgit9">
@@ -59,7 +59,7 @@ function Portfolio() {
       </a>
       <a href={`${dir}/techres2022.png`}>
 
-       <p>Click on image below for Resume 👇</p>
+       <p>Click here for Resume 👇</p>
       </a>
     </div>
   );
