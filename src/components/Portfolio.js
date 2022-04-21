@@ -58,9 +58,9 @@ function Portfolio() {
       </a>
       <a href={`${dir}/techres2022.png`}>
 
-       <p>Click here for Resume 👇</p>
+       <h5>Click here for Resume 👇</h5>
       </a>
-      <a className="nav-link" href="/artwork"><h4>Click here for artwork</h4></a>
+      <a className="nav-link" href="/artwork"><h4>Click here for artwork 👈</h4></a>
       <a />
     </div>
   );
