@@ -26,7 +26,7 @@ function Home() {
     </p>
     <br />
     <div className="col-sm-4-center">
-    <img src="./image/digitalbadge.png" style={{width: "20%"}} class="center" />
+    <img src="./image/digitalbadge.png" style={{width: "10%"}} class="center" />
     </div>
     </div>
     </div>
