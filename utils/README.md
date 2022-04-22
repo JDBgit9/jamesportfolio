@@ -1,7 +1,7 @@
 # James Justis Portfolio
 
 ## Description
-This digital portfolio was created with React.js with elements requiring HTML, CSS3, JavaScript, and more. This site displays not only my ability as a coder, but my creativity and dedication to the skills that I have acquired over the years. This is an ongoing project that I am sure will  evolve in time as I do have a great time developing it and seeing the different forms it can take in order for it to truly represent what I have to offer as a developer.  This started out as responive portfolio with just the basics and as I have grown as a developer I have truly grown to appreciate the hard work that goes into this profession. I  added an artwork section to display my hand drawn sketches of ideas that I somehow would like to transform into the virtual/digital realm. 
+This digital portfolio was created with React.js with elements requiring HTML, CSS3, JavaScript, and more. This site displays not only my ability as a coder, but my creativity and dedication to the skills that I have acquired over the years. This is an ongoing project that I am sure will  evolve in time as I do have a great time developing it and seeing the different forms it can take in order for it to truly represent what I have to offer as a developer.  This started out as responsive portfolio with just the basics and as I have grown as a developer I have truly grown to appreciate the hard work that goes into this profession. I  added an artwork section to display my hand drawn sketches of ideas that I somehow would like to transform into the virtual/digital realm. 
 
 ## Github
 JDBgit9
