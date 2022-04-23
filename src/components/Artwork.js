@@ -20,6 +20,7 @@ function Artwork() {
           <img src="./image/sattelite1.jpeg" style={{width: "60%" }} />
           <img src="./image/sattelite2.jpeg" style={{width: "60%" }} />
           <img src="./image/satteliteschema.jpg" style={{width: "60%" }} />
+          <p>I like to make up my own maps of new cities, this is Justis City</p>
           <img src="./image/justiscity.jpg" style={{width: "60%"}} />
         </div>
     );
