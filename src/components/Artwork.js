@@ -10,7 +10,7 @@ function Artwork() {
     </p>
           <h3>Here is some of my hand drawn sketches</h3>
           <img src="./image/josh.jpg" style={{width: "60%"}} />
-          <img src="./image" style={{width: "60%"}} />
+          <img src="./image/facialemotes.jpg" style={{width: "60%"}} />
           <img src="./image/ballsketch.jpg" style={{width: "60%"}} />
           <img src="./image/bottlesketch.jpg" style={{width: "60%"}} />
           <img src="./image/virtualpark.jpg" style={{width: "60%"}} />
