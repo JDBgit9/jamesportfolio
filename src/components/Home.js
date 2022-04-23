@@ -25,7 +25,8 @@ function Home() {
         You can view examples of my work in the portfolio tab on the top right corner of this page. I am excited to see where this journey will take me and I am honored to be a part of your team.
     </p>
     <br />
-     {/*<div className="col-sm-4-left">
+     {/* haven't decided if I want thi on the home page or not.  it is on the portfolio and soon to be on the contact page.
+     <div className="col-sm-4-left">
      <img src="./image/digitalbadge.png" style={{width: "10%"}} class="left" />
     </div>*/}
     </div>
