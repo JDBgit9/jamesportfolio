@@ -16,6 +16,7 @@ function Artwork() {
           <p>This is the storyboard sketches for MemeBate</p>
           <img src="./image/memebate.jpg" style={{width: "60%"}} />
           <img src="./image/memebatedraft.jpg" style={{width: "60%"}} />
+          <p>A new superhero Character I am developing name Sattelight (Working title)</p>
           <img src="./image/sattelite1.jpeg" style={{width: "60%" }} />
           <img src="./image/sattelite2.jpeg" style={{width: "60%" }} />
           <img src="./image/satteliteschema.jpg" style={{width: "60%" }} />
