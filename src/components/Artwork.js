@@ -13,6 +13,7 @@ function Artwork() {
           <img src="./image/bottlesketch.jpg" style={{width: "60%"}} />
           <img src="./image/virtualpark.jpg" style={{width: "60%"}} />
           <img src="./image/virtualentry.jpg" style={{width: "60%"}} />
+          <p>This is the storyboard sketches for MemeBate</p>
           <img src="./image/memebate.jpg" style={{width: "60%"}} />
           <img src="./image/memebatedraft.jpg" style={{width: "60%"}} />
           <img src="./image/sattelite1.jpeg" style={{width: "60%" }} />
