@@ -11,6 +11,7 @@ function Artwork() {
           <h3>Here is some of my hand drawn sketches</h3>
           <img src="./image/ballsketch.jpg" style={{width: "60%"}} />
           <img src="./image/bottlesketch.jpg" style={{width: "60%"}} />
+          <img src="./image/virtualpark.jpg" style={{width: "60%"}} />
           <img src="./image/memebate.jpg" style={{width: "60%"}} />
           <img src="./image/memebatedraft.jpg" style={{width: "60%"}} />
           <img src="./image/sattelite1.jpeg" style={{width: "60%" }} />
