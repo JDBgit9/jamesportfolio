@@ -39,9 +39,6 @@ function Contact() {
           <option value="South Africa">South Africa</option>
           <option value="South America">South America</option>
           <option value="UK">UK</option>
-          
-
-
         </select>
         <label for="subject" style={{color: "seashell"}}>Subject</label>
         <textarea id="subject" name="subject" placeholder="Write something.." style={{height:"170px"}}></textarea>
@@ -51,6 +48,7 @@ function Contact() {
       <p>Follow me on linkedin</p>
       <div className="col-md-8-text-center">
         <a href="https://www.linkedin.com/in/jamesjustis/"><img src="./image/linkedin.jpeg"  alt='LinkedIn logo' style={{width: "10%", padding: "0px", margin: "7%"}}/></a>
+        <img src="./image/digitalbadge.png" style={{width: "10%"}} />
       </div>
     </div>
   </div>
