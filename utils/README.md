@@ -22,7 +22,7 @@ The purpose of this project is to display my skills as a web developer with the 
 I created this project solely, but I'd like to thank my Alma Mater University of Central Florida, my teachers and assistants who tutored me along the way. JT, JP, my bootcamp classmates at UCF, Udemy, Free Code Camp, Josh Corenel, Wyzant, the MemeBate team, my family, my friends, my coworkers, mu dogs, and especially my cat Neville, he's the cutest most smartest cat in the whole wide world. He is all black with beautiful green eyes and he follows me everywhere I go.  When I am coding he keepsme company and lets me pet his soft mane. I love that cat.
 
 ## Provide instructions and examples for use. Include screenshots as needed.
-This project is pretty straight forward. If you like it and have a job for me then that is what this project is all about. Thank you I look forward to being a great asset to the company and the culture of the industry. If you don't like it and don't have a job for me then I really don't care.  
+This project is pretty straight forward. If you like it and have a job for me then that is what this project is all about. Thank you I look forward to being a great asset to the company and the culture of the industry. If you don't like it and don't have a job for me then I really don't care. 
 
 ## Sources/links
 undefined
