@@ -9,6 +9,8 @@ function Artwork() {
         I am a problem solver, a fast learner, and very professional with strong wit, so I am a blast to be around. I have always been in a creative mind space as my foundation is in the performing arts and want to bring my creativity to the developer industry. I took some web design and new media courses a few years ago and am building my portfolio and gaining more knowledge each day as a developer.     
     </p>
           <h3>Here is some of my hand drawn sketches</h3>
+          <img src="./image/josh.jpg" style={{width: "60%"}} />
+          <img src="./image" style={{width: "60%"}} />
           <img src="./image/ballsketch.jpg" style={{width: "60%"}} />
           <img src="./image/bottlesketch.jpg" style={{width: "60%"}} />
           <img src="./image/virtualpark.jpg" style={{width: "60%"}} />
