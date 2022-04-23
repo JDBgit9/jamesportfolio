@@ -22,6 +22,9 @@ function Artwork() {
           <img src="./image/satteliteschema.jpg" style={{width: "60%" }} />
           <p>I like to make up my own maps of new cities, this is Justis City</p>
           <img src="./image/justiscity.jpg" style={{width: "60%"}} />
+          <img src="./image/sslegendpf2.jpg" style={{width: "60%"}} />
+          <img src="./image/shiplegend.jpg" style={{width: "60%"}} />
+          <img src="./image/sslegendpf1.jpg" style={{width: "60%"}} />
         </div>
     );
 }
