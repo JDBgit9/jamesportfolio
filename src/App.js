@@ -8,6 +8,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Certificate from "./components/Certificate"
 import Artwork from './components/Artwork';
+import Resume from './components/Resume';
 
 
 function App() {
@@ -22,7 +23,9 @@ function App() {
         </Route>
         <Route path="/portfolio">
           <Portfolio />
-          <Certificate/></Route>
+          <Certificate />
+          <Resume />
+          </Route>
           <Route path="/artwork">
             <Artwork />
         </Route>
