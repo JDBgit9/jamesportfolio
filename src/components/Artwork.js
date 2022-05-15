@@ -2,7 +2,7 @@ import React from 'react';
 import "./Artwork.css"; 
 
 function Artwork() {
-  const dir = "./image";
+ 
     return (
         <div>
             <p> 
@@ -32,34 +32,34 @@ function Artwork() {
           <img src="./image/virtualentry.jpg" alt="theme park city view" style={{width: "60%"}} />
           <br />
           <br />
-          <img src="./image/memebate.jpg" style={{width: "60%"}} />
+          <img src="./image/memebate.jpg" alt="Sattelight" style={{width: "60%"}} />
           <p>Wireframe sketches for an app I am creating called MemeBate</p>
           <br />
           <br />
-          <img src="./image/memebatedraft.jpg" style={{width: "60%"}} />
+          <img src="./image/memebatedraft.jpg" alt="MemeBate wireframe" style={{width: "60%"}} />
           <br />
           <br />
-          <p>A new superhero Character I am developing name Sattelight (Working title)</p>
-          <img src="./image/sattelite1.jpeg" style={{width: "60%" }} />
+          <img src="./image/sattelite1.jpeg" alt="Sattelight" style={{width: "60%" }} />
+          <p>A new superhero Character I am developing named Sattelight (Working title)</p>
           <br />
           <br />
-          <img src="./image/sattelite2.jpeg" style={{width: "60%" }} />
+          <img src="./image/sattelite2.jpeg" alt="Sattelight" style={{width: "60%" }} />
           <br />
           <br />
-          <img src="./image/satteliteschema.jpg" style={{width: "60%" }} />
+          <img src="./image/satteliteschema.jpg" alt="Sattelight" style={{width: "60%" }} />
           <br />
           <br />
           <p>I like to make up my own maps of new cities, this is Justis City</p>
-          <img src="./image/justiscity.jpg" style={{width: "60%"}} />
+          <img src="./image/justiscity.jpg" alt="Justis City Map" style={{width: "60%"}} />
           <br />
           <br />
-          <img src="./image/sslegendpf2.jpg" style={{width: "60%"}} />
+          <img src="./image/sslegendpf2.jpg" alt="SSLegend Space craft" style={{width: "60%"}} />
           <br />
           <br />
-          <img src="./image/shiplegend.jpg" style={{width: "60%"}} />
+          <img src="./image/shiplegend.jpg" alt="SSlegend Design" style={{width: "60%"}} />
           <br />
           <br />
-          <img src="./image/sslegendpf1.jpg" style={{width: "60%"}} />
+          <img src="./image/sslegendpf1.jpg" alt="SSLegend sketch" style={{width: "60%"}} />
         </div>
     );
 }
