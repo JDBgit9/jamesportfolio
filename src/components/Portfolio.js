@@ -2,7 +2,6 @@ import React from "react";
 import "./Portfolio.css";
 
 function Portfolio() {
-  const dir = "./image";
   return (
     <div>
       <h3>My Portfolio</h3>
@@ -51,17 +50,16 @@ function Portfolio() {
       <img src="./image/digitalbadge.png" style={{width: "10%"}} />
        <br />
        <br/> 
-      <a href={`${dir}/techres.png`}><h5>Click here for my Resume 👈</h5>
-      </a> 
       <img src="./image/nerdlook.png" style={{ width: "30%" }} />
       <a href="https://github.com/JDBgit9">
         <br/>
         <br/>
         <img src="./image/github logo1.jpeg" style={{ width: "15%" }} />
+        <br/>
         <h6>Check out my Github 👈</h6>
       </a>
+      <br/>
       <a className="nav-link" href="/artwork"><h4>Click here to view some of my sketches 👈</h4></a>
-      <a />  
     </div>
    
   );
