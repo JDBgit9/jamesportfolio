@@ -10,22 +10,50 @@ function Artwork() {
     </p>
           <h3>Here is some of my hand drawn sketches</h3>
           <img src="./image/josh.jpg" style={{width: "60%"}} />
+          <br />
+          <br />
           <img src="./image/facialemotes.jpg" style={{width: "60%"}} />
+          <br />
+          <br />
           <img src="./image/ballsketch.jpg" style={{width: "60%"}} />
+          <br />
+          <br />
           <img src="./image/bottlesketch.jpg" style={{width: "60%"}} />
+          <br />
+          <br />
           <img src="./image/virtualpark.jpg" style={{width: "60%"}} />
+          <br />
+          <br />
           <img src="./image/virtualentry.jpg" style={{width: "60%"}} />
+          <br />
+          <br />
           <p>This is the storyboard sketches for MemeBate</p>
           <img src="./image/memebate.jpg" style={{width: "60%"}} />
+          <br />
+          <br />
           <img src="./image/memebatedraft.jpg" style={{width: "60%"}} />
+          <br />
+          <br />
           <p>A new superhero Character I am developing name Sattelight (Working title)</p>
           <img src="./image/sattelite1.jpeg" style={{width: "60%" }} />
+          <br />
+          <br />
           <img src="./image/sattelite2.jpeg" style={{width: "60%" }} />
+          <br />
+          <br />
           <img src="./image/satteliteschema.jpg" style={{width: "60%" }} />
+          <br />
+          <br />
           <p>I like to make up my own maps of new cities, this is Justis City</p>
           <img src="./image/justiscity.jpg" style={{width: "60%"}} />
+          <br />
+          <br />
           <img src="./image/sslegendpf2.jpg" style={{width: "60%"}} />
+          <br />
+          <br />
           <img src="./image/shiplegend.jpg" style={{width: "60%"}} />
+          <br />
+          <br />
           <img src="./image/sslegendpf1.jpg" style={{width: "60%"}} />
         </div>
     );
