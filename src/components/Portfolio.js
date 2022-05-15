@@ -2,7 +2,7 @@ import React from "react";
 import "./Portfolio.css";
 
 function Portfolio() {
-  const dir = "./image";
+
   return (
     <div>
       <h3>My Portfolio</h3>
@@ -10,7 +10,7 @@ function Portfolio() {
       <p>Scroll down and click on the images to take you the application for your perusal. Enjoy!</p>
        <hr />
       <h5>The Weather App</h5><p>Check the weather in your area...HTML/CSS/JS</p> 
-      <a href="https://jdbgit9.github.io/Weather-App/">
+      <a href="https://jdbgit9.github.io/Weather-App/" alt="Weather API site">
         <img src="./image/weatherapp2.png" style={{ width: "60%" }} />  
         </a>  
         <h5>Password Generator</h5>
@@ -63,7 +63,6 @@ function Portfolio() {
           <img src="./image/digitalbadge.png" style={{width: "10%"}} />
       <br/>
       <br/>
-
     </div>
    
   );
