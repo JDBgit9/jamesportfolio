@@ -13,6 +13,7 @@ function Artwork() {
           <h3>Here is some of my hand drawn sketches</h3>
           <br />
           <br />
+          <hr />
           <img src="./image/josh.jpg" style={{width: "60%"}} />
           <br />
           <br />
