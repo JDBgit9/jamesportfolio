@@ -46,7 +46,6 @@ function Portfolio() {
       <a href="https://jdbgit9.github.io/Note-Taker/">
       <img src="./image/notetaker.png" style={{ width: "60%" }} />
       </a>
-     
        <br />
        <br/> 
       <img src="./image/nerdlook.png" style={{ width: "30%" }} />
@@ -64,7 +63,7 @@ function Portfolio() {
       <img src="./image/digitalbadge.png" style={{width: "10%"}} />
       <br/>
       <br/>
-      
+      <a href="/resume">Resume</a>
     </div>
    
   );

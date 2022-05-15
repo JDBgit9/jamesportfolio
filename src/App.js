@@ -23,8 +23,8 @@ function App() {
         </Route>
         <Route path="/portfolio">
           <Portfolio />
-          <Certificate />
           <Resume />
+          <Certificate />
           </Route>
           <Route path="/artwork">
             <Artwork />
