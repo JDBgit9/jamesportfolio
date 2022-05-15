@@ -61,12 +61,12 @@ function Portfolio() {
       <a className="nav-link" href="/artwork"><h4>Click here to view some of my sketches 👈</h4>
       </a>
       <br/>
-      <img src="./image/digitalbadge.png" style={{width: "10%"}} />
+          <img src="./image/digitalbadge.png" style={{width: "10%"}} />
       <br/>
       <br/>
-      <a href={`${dir} "/Resume" `}><h5>Click here for my Resume 👈</h5>
-      </a> 
-      <a><a href={`${dir} "/Certificate" `}><h5>Click here to view my certificate 👈</h5>
+     
+           <img src="./image/tech-res22.png" className="Resume" alt="Technical Resume" style={{width: "60%"}} />
+         <a><a href={`${dir} "/Certificate" `}><h5>Click here to view my certificate 👈</h5>
       </a> 
 </a>
 
