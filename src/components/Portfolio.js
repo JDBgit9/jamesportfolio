@@ -46,11 +46,12 @@ function Portfolio() {
       <a href="https://memebate.herokuapp.com/">
         <img src="./image/memebate.png" style={{ width: "60%" }} />
       </a>
-       <br/> 
+      <br />
+       <br /> 
       <img src="./image/nerdlook.png" style={{ width: "30%" }} />
       <a href="https://github.com/JDBgit9">
-        <br/>
-        <br/>
+        <br />
+        <br />
         <img src="./image/github logo1.jpeg" style={{ width: "15%" }} />
         <br/>
         <h6>Check out my Github 👈</h6>
