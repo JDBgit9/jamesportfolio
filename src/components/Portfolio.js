@@ -63,11 +63,6 @@ function Portfolio() {
           <img src="./image/digitalbadge.png" style={{width: "10%"}} />
       <br/>
       <br/>
-     
-           <img src="./image/tech-res22.png" className="Resume" alt="Technical Resume" style={{width: "60%"}} />
-         <a><a href={`${dir} "/Certificate" `}><h5>Click here to view my certificate 👈</h5>
-      </a> 
-</a>
 
     </div>
    
