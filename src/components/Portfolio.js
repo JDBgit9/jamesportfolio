@@ -37,16 +37,15 @@ function Portfolio() {
       <h5>StreamGrub</h5> 
       <a href="https://jdbgit9.github.io/StreamGrub/">
         <img src="./image/moviedine2.png" style={{ width: "60%" }} /></a>
-     
-      <h5>MemeBate</h5>
-      <a href="https://memebate.herokuapp.com/">
-        <img src="./image/memebate.png" style={{ width: "60%" }} />
-      </a>
       <h5>Note Taker</h5>
       <a href="https://jdbgit9.github.io/Note-Taker/">
       <img src="./image/notetaker.png" style={{ width: "60%" }} />
       </a>
        <br />
+       <h5>MemeBate</h5>
+      <a href="https://memebate.herokuapp.com/">
+        <img src="./image/memebate.png" style={{ width: "60%" }} />
+      </a>
        <br/> 
       <img src="./image/nerdlook.png" style={{ width: "30%" }} />
       <a href="https://github.com/JDBgit9">
