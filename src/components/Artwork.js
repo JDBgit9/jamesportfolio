@@ -32,8 +32,8 @@ function Artwork() {
           <img src="./image/virtualentry.jpg" alt="theme park city view" style={{width: "60%"}} />
           <br />
           <br />
-          <p>This is the storyboard sketches for MemeBate</p>
           <img src="./image/memebate.jpg" style={{width: "60%"}} />
+          <p>Wireframe sketches for an app I am creating called MemeBate</p>
           <br />
           <br />
           <img src="./image/memebatedraft.jpg" style={{width: "60%"}} />
