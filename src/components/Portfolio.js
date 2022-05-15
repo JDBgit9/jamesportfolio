@@ -12,11 +12,7 @@ function Portfolio() {
       <h5>The Weather App</h5><p>Check the weather in your area...HTML/CSS/JS</p> 
       <a href="https://jdbgit9.github.io/Weather-App/">
         <img src="./image/weatherapp2.png" style={{ width: "60%" }} />  
-        </a> 
-       <h5>StreamGrub</h5> 
-      <a href="https://jdbgit9.github.io/StreamGrub/">
-        <img src="./image/moviedine2.png" style={{ width: "60%" }} /></a>
-        
+        </a>  
         <h5>Password Generator</h5>
         <a href="https://jdbgit9.github.io/Password-Generator/">
           <img src="./image/passwordgen.png" style={{width: "60%" }}/>
@@ -38,6 +34,9 @@ function Portfolio() {
       <a href="https://jdbgit9.github.io/Workout-Tracker/">
       <img src="./image/fitnesstracker.png" style={{ width: "60%" }} />
       </a> 
+      <h5>StreamGrub</h5> 
+      <a href="https://jdbgit9.github.io/StreamGrub/">
+        <img src="./image/moviedine2.png" style={{ width: "60%" }} /></a>
      
       <h5>MemeBate</h5>
       <a href="https://memebate.herokuapp.com/">
