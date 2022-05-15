@@ -1,3 +1,11 @@
-.h3 {
-    color: white;
+h3 {
+    color: rgb(222, 63, 156);
+}
+
+.lineBreak {
+    color: rgb(243, 241, 239);
+    margin-top: 50px;
+    text-decoration: dotted;
+    width: 30%;
+    text-align: center;
 }

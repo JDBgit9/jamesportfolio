@@ -13,23 +13,23 @@ function Artwork() {
           <h3>Here is some of my hand drawn sketches</h3>
           <br />
           <br />
-          <hr />
-          <img src="./image/josh.jpg" style={{width: "60%"}} />
+          <hr className="lineBreak" />
+          <img src="./image/josh.jpg" alt="Josh" style={{width: "60%"}} />
           <br />
           <br />
-          <img src="./image/facialemotes.jpg" style={{width: "60%"}} />
+          <img src="./image/facialemotes.jpg" alt="facial emotions" style={{width: "60%"}} />
           <br />
           <br />
-          <img src="./image/ballsketch.jpg" style={{width: "60%"}} />
+          <img src="./image/ballsketch.jpg" alt="Ball" style={{width: "60%"}} />
           <br />
           <br />
-          <img src="./image/bottlesketch.jpg" style={{width: "60%"}} />
+          <img src="./image/bottlesketch.jpg" alt="Bottle" style={{width: "60%"}} />
           <br />
           <br />
-          <img src="./image/virtualpark.jpg" style={{width: "60%"}} />
+          <img src="./image/virtualpark.jpg" alt="theme park map" style={{width: "60%"}} />
           <br />
           <br />
-          <img src="./image/virtualentry.jpg" style={{width: "60%"}} />
+          <img src="./image/virtualentry.jpg" alt="theme park city view" style={{width: "60%"}} />
           <br />
           <br />
           <p>This is the storyboard sketches for MemeBate</p>
