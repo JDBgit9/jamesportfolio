@@ -2,7 +2,7 @@ import React from 'react';
 import "./Artwork.css"; 
 
 function Artwork() {
- 
+
     return (
         <div>
             <p> 
