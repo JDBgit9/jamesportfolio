@@ -5,7 +5,7 @@ function Artwork() {
 
     return (
         <div>
-            <p> 
+            <p className="intro"> 
         I am a problem solver, a fast learner, and very professional with strong wit, so I am a blast to be around. I have always been in a creative mind space as my foundation is in the performing arts and want to bring my creativity to the developer industry. I took some web design and new media courses a few years ago and am building my portfolio and gaining more knowledge each day as a developer.     
     </p>
     <br />
