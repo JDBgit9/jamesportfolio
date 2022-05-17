@@ -63,7 +63,7 @@ function Portfolio() {
           <img src="./image/digitalbadge.png" alt="coding badge" style={{width: "10%"}} />
       <br/>
       <br/>
-      <img src="./image/tecres22.png" alt="Resume" style={{width: "60%"}} /> 
+      <img src={("./image/tecres22.png")} alt="Resume" style={{width: "60%"}} /> 
       <br />
       <br />
     </div>
