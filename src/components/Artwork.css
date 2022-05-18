@@ -8,6 +8,7 @@
 }
 p {
     text-align: left;
+   
 }
 h3 {
     color: rgb(222, 63, 156);
@@ -19,4 +20,8 @@ h3 {
     text-decoration: dotted;
     width: 30%;
     text-align: center;
+}
+
+img {
+    margin-left: 100px;
 }

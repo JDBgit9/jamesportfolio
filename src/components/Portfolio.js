@@ -38,7 +38,7 @@ function Portfolio() {
       <a href="https://jdbgit9.github.io/StreamGrub/">
         <img src="./image/moviedine2.png" alt="StreamGrug" style={{ width: "60%" }} /></a>
       <h5>Note Taker</h5>
-      <a href="https://jdbgit9.github.io/Note-Taker/">
+      <a href="https://notes-9.herokuapp.com/">
       <img src="./image/notetaker.png" alt="note taker" style={{ width: "60%" }} />
       </a>
        <br />
@@ -63,7 +63,7 @@ function Portfolio() {
           <img src="./image/digitalbadge.png" alt="coding badge" style={{width: "10%"}} />
       <br/>
       <br/>
-      <img src={("./image/tecres22.png")} alt="Resume" style={{width: "60%"}} /> 
+      <img src="./image/tecres22.png" alt="Resume" style={{width: "60%"}} /> 
       <br />
       <br />
     </div>

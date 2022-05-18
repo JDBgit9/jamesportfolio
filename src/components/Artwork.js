@@ -53,7 +53,7 @@ function Artwork() {
           <img src="./image/justiscity.jpg" alt="Justis City Map" style={{width: "60%"}} />
           <br />
           <br />
-          <img src=".image/justiscityview.jpg" alt="justis city sketch" style={{width:"60%"}} />
+          <img src='./image/justiscityview.jpg' alt='justiscity Bay' style={{width: "60%"}} />
           <br />
           <br />
           <img src="./image/sslegendpf2.jpg" alt="SSLegend Space craft" style={{width: "60%"}} />
