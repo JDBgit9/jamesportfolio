@@ -34,7 +34,8 @@ const dir = "./image"
         <h5>BurgerTime</h5>
         <a href="https://aqueous-taiga-71567.herokuapp.com/">
         <img src="./image/brrger.png" alt="burger" style={{ width: "60%" }} />
-      </a>
+      </a> 
+      <br /> <br/>
       <h5>Fitness Tracker</h5>
       <a href="https://jdbgit9.github.io/Workout-Tracker/">
       <img src="./image/fitnesstracker.png" alt="fitnesstracker" style={{ width: "60%" }} />
@@ -50,7 +51,7 @@ const dir = "./image"
       <br />
        <br /> 
        <img src={`${dir}/techres22.png`} style={{ width: "60%" }} />
-
+       <br/><br />
       <img src="./image/nerdlook.png" alt="headshot" style={{ width: "30%" }} />
       <a href="https://github.com/JDBgit9">
         <br />
