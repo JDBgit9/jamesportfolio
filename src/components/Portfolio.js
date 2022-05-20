@@ -1,5 +1,6 @@
 import React from "react";
 import "./Portfolio.css";
+import image from './path-to-image';
 
 function Portfolio() {
 
@@ -48,6 +49,8 @@ function Portfolio() {
       </a>
       <br />
        <br /> 
+       <img src={./} height={100} width={100} />
+
       <img src="./image/nerdlook.png" alt="headshot" style={{ width: "30%" }} />
       <a href="https://github.com/JDBgit9">
         <br />
