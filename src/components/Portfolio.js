@@ -1,9 +1,9 @@
 import React from "react";
 import "./Portfolio.css";
-import image from './path-to-image';
+
 
 function Portfolio() {
-
+const dir = "./image"
   return (
     <div>
       <h3>My Portfolio</h3>
@@ -49,7 +49,7 @@ function Portfolio() {
       </a>
       <br />
        <br /> 
-       <img src={./} height={100} width={100} />
+       <img src={`${dir}/techres22.png`} style={{ width: "60%" }} />
 
       <img src="./image/nerdlook.png" alt="headshot" style={{ width: "30%" }} />
       <a href="https://github.com/JDBgit9">
@@ -65,8 +65,7 @@ function Portfolio() {
       <br/>
           <img src="./image/digitalbadge.png" alt="coding badge" style={{width: "10%"}} />
       <br/>
-      <br/>
-      <img src="./image/tecres22.png" alt="Resume" style={{width: "60%"}} /> 
+      <br/> 
       <br />
       <br />
     </div>
