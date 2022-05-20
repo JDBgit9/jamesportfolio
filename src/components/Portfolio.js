@@ -40,10 +40,11 @@ const dir = "./image"
       <a href="https://jdbgit9.github.io/Workout-Tracker/">
       <img src="./image/fitnesstracker.png" alt="fitnesstracker" style={{ width: "60%" }} />
       </a> 
+      <br /><br />
       <h5>StreamGrub</h5> 
       <a href="https://jdbgit9.github.io/StreamGrub/">
         <img src="./image/moviedine2.png" alt="StreamGrug" style={{ width: "60%" }} /></a>
-       <br />
+       <br /><br />
        <h5>MemeBate</h5>
       <a href="https://memebate.herokuapp.com/">
         <img src="./image/memebate.png" alt="MemeBate" style={{ width: "60%" }} />
