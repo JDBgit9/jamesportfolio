@@ -20,15 +20,17 @@ function App() {
       <Switch>
         <Route path="/contact">
           <Contact/>
-        </Route>
-        <Route path="/portfolio">
-          <Portfolio />
-          <Resume />
-          <Certificate />
+         </Route>
+           <Route path="/portfolio">
+            <Portfolio />
           </Route>
           <Route path="/artwork">
             <Artwork />
-        </Route>
+            </Route>
+            <Route>
+             <Certificate path="/certificate" />
+             <Certificate />
+            </Route>
         <Route path="/">
           <Home/>
         </Route>

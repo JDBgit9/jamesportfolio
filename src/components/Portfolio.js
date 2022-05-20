@@ -51,26 +51,26 @@ const dir = "./image"
       </a>
       <br />
        <br /> 
-       <img src={`${dir}/techres22.png`} style={{ width: "60%" }} />
+       <img src={`${dir}/techres22.png`} alt="Resume" style={{ width: "60%" }} />
        <br/><br />
       <img src="./image/nerdlook.png" alt="headshot" style={{ width: "30%" }} />
       <a href="https://github.com/JDBgit9">
         <br />
         <br />
         <img src="./image/github logo1.jpeg" alt="Github" style={{ width: "15%" }} />
-        <br/>
+        <br/><br />
         <h6>Check out my Github 👈</h6>
       </a>
-      <br/>
+      <br/><br />
       <a className="nav-link" href="/artwork"><h4>Click here to view some of my sketches 👈</h4>
       </a>
-      <br/>
+      <br/><br />
+      <a className="nav-link" href="/certificate">My Degree Image here</a><br/><br/>
           <img src="./image/digitalbadge.png" alt="coding badge" style={{width: "10%"}} />
-      <br/>
-      <br/> 
-      <br />
-      <br />
-    </div>
+          <br/>
+
+          
+ </div>
    
   );
 }
