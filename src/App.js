@@ -27,10 +27,6 @@ function App() {
           <Route path="/artwork">
             <Artwork />
             </Route>
-            <Route>
-             <Certificate path="/certificate" />
-             <Certificate />
-            </Route>
         <Route path="/">
           <Home/>
         </Route>
