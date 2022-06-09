@@ -17,7 +17,7 @@ function Portfolio() {
         <img
           src="./image/tindog.png"
           alt="tinder for dog app"
-          style={{ width: "20%" }}
+          style={{ width: "60%" }}
         />
       </a>
       <h5>The Weather App</h5>
