@@ -119,11 +119,6 @@ function Portfolio() {
       </a>
       <br />
       <br />
-      <a className="nav-link" href="/certificate">
-        My Degree Image here
-      </a>
-      <br />
-      <br />
       <img
         src="./image/digitalbadge.png"
         alt="coding badge"
