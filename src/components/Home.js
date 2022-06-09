@@ -35,10 +35,10 @@ function Home() {
               journey will take me and I am honored to be a part of your team.
             </p>
             <br />
-            {/* haven't decided if I want this on the home page or not.  it is on the portfolio and soon to be on the contact page. */}
-            {/* <div className="col-sm-4-left"> */}
-            {/* <img src="./image/digitalbadge.png" style={{width: "10%"}} class="left" /> */}
-            {/* </div> */}
+            <br />
+             <div className="col-sm-4-left"> 
+                <img src="./image/digitalbadge.png" style={{width: "10%"}} class="left" /> 
+             </div>
           </div>
         </div>
       </div>
