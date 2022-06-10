@@ -36,7 +36,7 @@ function Home() {
             </p>
             <br />
             <br />
-             <div className="col-sm-4-left"> 
+             <div className="col-sm-4-left badge"> 
                 <img src="./image/digitalbadge.png" style={{width: "10%"}} class="left" /> 
              </div>
           </div>
