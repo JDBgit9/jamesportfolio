@@ -8,11 +8,12 @@
     box-sizing: border-box;
   
   }
+
   h1 {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Arial Narrow Bold', sans-serif;
   font-size: 55px;
   color: rgb(255, 255, 255);
-  margin-left: 5%;
+
   }
 
   h3 {
@@ -25,6 +26,8 @@ h4 {
   margin: 10px;
   color: #FF0095
 }
+
+.intro 
    
   /*.navbar {
     box-sizing: content-box;
@@ -37,7 +40,8 @@ h4 {
     
     padding-left: 0px;
     width: 30px;
-    
+    position: relative;
+    right: 105px;
   }
   
     h5 {
@@ -45,7 +49,7 @@ h4 {
       font-size: 20px;
       color: #FF0095;
       border: 0px;
-      margin: 20px 20px 20px 20px;
+      margin: 20px 40px 20px 20px;
      
     }
     
