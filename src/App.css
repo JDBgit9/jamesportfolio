@@ -11,6 +11,11 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+   
+.bg-img  {
+ background-size: contain;
+}
+
 }
 
 .App-header {
