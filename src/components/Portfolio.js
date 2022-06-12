@@ -13,7 +13,7 @@ function Portfolio() {
       </p>
       <hr />
       <h5>TinDog</h5>
-      <a href=" https://jdbgit9.github.io/TinDog/">
+      <a href="https://jdbgit9.github.io/Tin-Dogger/">
         <img
           src="./image/tindog.png"
           alt="tinder for dog app"
