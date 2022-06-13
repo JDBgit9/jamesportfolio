@@ -3,11 +3,11 @@ import "./Footer.css";
 
 function Footer() {
     return (
-       <div className='container col-lg-12'>
-        <div className="footer">
-            <p className='foot-text'>James Justis | GitHub: JDBgit9 | email: justiscode@outlook.com. &copy; 2022</p>
+     <div className='container-fluid-foot'>
+        <div className="footer text-center">
+            <p className="foot-text">James Justis | GitHub: JDBgit9 | email: justiscode@outlook.com. &copy; 2022</p>
         </div>
-        </div>
+     </div> 
     )
 }
 
