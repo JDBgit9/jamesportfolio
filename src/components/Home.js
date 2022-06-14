@@ -1,6 +1,8 @@
 import React from "react";
 import "./Home.css";
 
+// Home
+
 function Home() {
   return (
     <div>
@@ -22,29 +24,38 @@ function Home() {
               alt="coder"
             />
           </div>
-          <div className="col-sm-9">
-            <p>
-              {" "}
-              Hi, I'm James and I am a certified Full-Stack Web Developer who is
-              a graduate of the University of Central Florida with a certificate
-              degree in Coding. I have worked on projects that require extensive
-              knowledge of HTML, CSS, JS, Bootstrap, Node.js, mySQl, NoSQL,
-              Dbeaver, Mongodb, Sequelize, Yarn, Heroku, express, REACTjs, and
-              more. You can view examples of my work in the portfolio tab on the
-              top right corner of this page. I am excited to see where this
-              journey will take me and I am honored to be a part of your team.
-            </p>
+      
+          <section>
+            <div className="col-sm-9">
+              <p>
+                {" "}
+                Hi, I'm James and I am a certified Full-Stack Web Developer who
+                is a graduate of the University of Central Florida with a
+                certificate degree in Coding. I have worked on projects that
+                require extensive knowledge of HTML, CSS, JS, Bootstrap,
+                Node.js, mySQl, NoSQL, Dbeaver, Mongodb, Sequelize, Yarn,
+                Heroku, express, REACTjs, and more. You can view examples of my
+                work in the portfolio tab on the top right corner of this page.
+                I am excited to see where this journey will take me and I am
+                honored to be a part of your team.
+              </p>
+            </div>
+          </section>
+          <br />
+          <br />
+          <br />
+          <br />
+          <div class="container-fluid badger">
+            <div className="col-sm-4 badge">
+              <img
+                src="./image/digitalbadge.png"
+                style={{ width: "100%" }}
+                class="left"
+                alt="coder badge certification"
+              />
+            </div>
+          </div>
         </div>
-            <br />
-            <br />
-            <br />
-            <br />  
-             <div class='container-fluid badger'>
-             <div className="col-sm-4 badge"> 
-                <img src="./image/digitalbadge.png" style={{width: "100%"}} class="left" alt="coder badge certification" /> 
-             </div> 
-             </div>
-        </div>        
       </div>
     </div>
   );
