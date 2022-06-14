@@ -59,6 +59,11 @@ h4 {
 .badge {
   max-width: 200px;
   max-height: 200px;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
 
 }
 
