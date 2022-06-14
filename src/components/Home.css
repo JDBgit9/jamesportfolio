@@ -43,14 +43,6 @@ h4 {
   } */
 
   
-  .main-pic {
-    margin: 5px;
-
-    width: 600px;
-    position: relative;
-    right: 90px;
-  }
-  
     h5 {
       font-family: Arial, sans-serif;
       font-size: 20px;
@@ -62,18 +54,11 @@ h4 {
 
     /* Badge */
 
-    .badger {
-    align-items: center;
-
-    }
-
-    .badge {
-      max-width: 200px;
-      max-height:  200px;
-      position: relative;
-      left: 600px;
-    
-    }
+.badge {
+  max-width: 200px;
+  max-height: 200px;
+  margin: 40px;
+}
     
 /* Footer */
     
