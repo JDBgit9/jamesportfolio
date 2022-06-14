@@ -45,16 +45,7 @@ function Home() {
           <br />
           <br />
           <br />
-          <div class="container-fluid badger">
-            <div className="col-sm-4 badge">
-              <img
-                src="./image/digitalbadge.png"
-                style={{ alignItems: 'center' }}
-                className="left"
-                alt="coder badge certification"
-              />
-            </div>
-          </div>
+         
         </div>
       </div>
     </div>
