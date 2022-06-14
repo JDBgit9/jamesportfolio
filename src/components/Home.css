@@ -15,10 +15,12 @@
   /* Fonts */
 
   h1, h2, h3, h4, h5, h6 {
-  font-family: 'Arial Narrow Bold', sans-serif;
-  font-size: 55px;
-  color: rgb(255, 255, 255);
+  font-family: 'Monserrat-Bold', sans-serif;
+  }
 
+  h1 {
+    font-size: 55px;
+    color: #f3f6f8;
   }
 
   h3 {
@@ -44,7 +46,7 @@ h4 {
 
   
     h5 {
-      font-family: Arial, sans-serif;
+      font-family: "Monserrat-Black", sans-serif;
       font-size: 20px;
       color: #FF0095;
       border: 0px;
@@ -57,9 +59,9 @@ h4 {
 .badge {
   max-width: 200px;
   max-height: 200px;
-  margin: 40px;
 
 }
+
 
 
     

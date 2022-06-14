@@ -50,7 +50,7 @@ function Home() {
               <img
                 src="./image/digitalbadge.png"
                 style={{ alignItems: 'center' }}
-                class="left"
+                className="left"
                 alt="coder badge certification"
               />
             </div>
