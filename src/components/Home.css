@@ -1,97 +1,88 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 0px;
+}
 
- body {
-   font-family: Arial, sans-serif;
-   padding: 0px;
- }
+/* Header */
 
- /* Header */
+.header {
+  background-color: #141c26;
+  box-sizing: border-box;
+}
 
- .header {
-    background-color: #141c26;
-    box-sizing: border-box;
-  
-  }
+/* Fonts */
 
-  /* Fonts */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: "Monserrat-Bold", sans-serif;
+}
 
-  h1, h2, h3, h4, h5, h6 {
-  font-family: 'Monserrat-Bold', sans-serif;
-  }
+h1 {
+  font-size: 55px;
+  color: #f3f6f8;
+}
 
-  h1 {
-    font-size: 55px;
-    color: #f3f6f8;
-  }
+h3 {
+  color: #f3f6f8;
+  font-size: 25px;
+  margin-left: 60px;
+}
 
-  h3 {
-    color: #f3f6f8;
-    font-size: 25px;
-    margin-left: 60px;
-  }
-  
 h4 {
   margin: 10px;
-  color: #FF0095
+  color: #ff0095;
+}
+
+h5 {
+  font-family: "Monserrat-Black", sans-serif;
+  font-size: 20px;
+  color: #ff0095;
+  border: 0px;
+  margin: 20px 40px 20px 20px;
 }
 
 /* About Me */
 
-.intro 
-   
-  /*.navbar {
-    box-sizing: content-box;
-    background-color: #0141c26;
-    margin-top: auto;
-  } */
+.main-pic {
+  position: relative;
+  margin: auto;
+}
 
-  
-    h5 {
-      font-family: "Monserrat-Black", sans-serif;
-      font-size: 20px;
-      color: #FF0095;
-      border: 0px;
-      margin: 20px 40px 20px 20px;
-     
-    }
-
-    /* Badge */
-
-.badge {
-  max-width: 200px;
-  max-height: 200px;
+.p-tag {
+  max-width: 700px;
   display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    width: 100%;
-
+  text-align: right;
+  justify-content: right;
+  margin: 40px 40px 0px 20px;
 }
 
+/* Badge */
 
-
-    
-/* Footer */
-    
-    .footer {
-      position: fixed;
-      left: 270;
-      bottom: 0;
-      width: 100%;
-      background-color: #141c26;
-      color: white;
-      text-align: center;
-   }
-
-/* Mobile */
-
-@media (min-width: "568px;") {
 .badge {
-  position: static;
-  right: 460px;
+  max-width: 150px;
+  max-height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+ 
+  width: 100%;
 }
+
+/* Footer */
+
+.footer {
+  position: fixed;
+  left: 270;
+  bottom: 0;
+  width: 100%;
+  background-color: #141c26;
+  color: white;
+  text-align: center;
 }
 
-
-
-  
-  

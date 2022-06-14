@@ -26,7 +26,7 @@ function Home() {
           </div>
       
           <section>
-            <div className="col-sm-9">
+            <div className="col-sm-9 p-tag">
               <p>
                 {" "}
                 Hi, I'm James and I am a certified Full-Stack Web Developer who
