@@ -5,14 +5,11 @@ body {
 }
 .img-fluid {
   max-width: 100%;
-  height: 1000px;
+  max-height: 100%;
 }
 
 h1, h3,h3 h4, h5 h6, p {
   font-family: "Monserrat Bold", sans-serif;
 }
 
-.badge {
- display: flex;
- justify-content: center;
-}
+

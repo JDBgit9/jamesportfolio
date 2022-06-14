@@ -64,13 +64,14 @@ h5 {
 /* Badge */
 
 .badge {
-  max-width: 150px;
-  max-height: 150px;
+  width: 100px;
+  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
   margin: auto;
- 
+  position: relative;
+  top: 80px;
   width: 100%;
 }
 
