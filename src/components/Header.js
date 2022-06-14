@@ -7,7 +7,7 @@ function Header() {
              <nav className="navbar navbar-expand-lg navbar-light bg-grey">
         <div className="container">
             <a href="/" className="navbar-brand header">
-                <h1>James Justis</h1></a>
+                <h1>JustisCode</h1></a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
@@ -15,9 +15,9 @@ function Header() {
             <div className="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
                 <div className="navbar-nav">
                     <a className="nav-link active" href="/"><span className="sr-only">(current)</span></a>
-                    <a className="nav-link" href="/portfolio"><h5>Portfolio</h5></a>
-                    <a className="nav-link" href="/artwork"><h5>Artwork</h5></a>
-                    <a className="nav-link" href="/contact"><h5>Contact</h5></a>
+                    <a className="nav-link" href="/portfolio"><h6>Portfolio</h6></a>
+                    <a className="nav-link" href="/artwork"><h6>Artwork</h6></a>
+                    <a className="nav-link" href="/contact"><h6>Contact</h6></a>
                
                 </div>
             </div>

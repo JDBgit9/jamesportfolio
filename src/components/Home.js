@@ -49,7 +49,7 @@ function Home() {
             <div className="col-sm-4 badge">
               <img
                 src="./image/digitalbadge.png"
-                style={{ width: "100%" }}
+                style={{ alignItems: 'center' }}
                 class="left"
                 alt="coder badge certification"
               />

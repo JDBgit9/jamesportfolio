@@ -58,7 +58,10 @@ h4 {
   max-width: 200px;
   max-height: 200px;
   margin: 40px;
+
 }
+
+
     
 /* Footer */
     
@@ -77,7 +80,7 @@ h4 {
 @media (min-width: "568px;") {
 .badge {
   position: static;
-  right: 550px;
+  right: 460px;
 }
 }
 
