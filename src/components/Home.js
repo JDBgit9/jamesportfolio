@@ -6,7 +6,7 @@ import "./Home.css";
 function Home() {
   return (
     <div>
-      <h4>About Me</h4>
+    
       <div className="wrapper">
         <div className="container-mt-4">
           <div className="row">
