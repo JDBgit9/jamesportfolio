@@ -34,8 +34,7 @@ function Home() {
                 certificate degree in Coding. I have worked on projects that
                 require extensive knowledge of HTML, CSS, JS, Bootstrap,
                 Node.js, mySQl, NoSQL, Dbeaver, Mongodb, Sequelize, Yarn,
-                Heroku, express, REACTjs, and more. You can view examples of my
-                work in the portfolio tab on the top right corner of this page.
+                Heroku, express, REACTjs, and more.
                 I am excited to see where this journey will take me and I am
                 honored to be a part of your team.
               </p>
