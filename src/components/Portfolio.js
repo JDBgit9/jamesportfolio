@@ -14,7 +14,7 @@ function Portfolio() {
         <img
           src="./image/tindog.png"
           alt="tinder for dog app"
-          style={{ width: "30%" }}
+          style={{ width: "55%" }}
         />
       </a>
       <br />
@@ -24,7 +24,7 @@ function Portfolio() {
         <img
           src="./image/weatherapp2.png"
           alt="weather API page"
-          style={{ width: "30%" }}
+          style={{ width: "55%" }}
         />
       </a>
       <br />
@@ -33,7 +33,7 @@ function Portfolio() {
         <img
           src="./image/passwordgen.png"
           alt="password generator"
-          style={{ width: "30%" }}
+          style={{ width: "55%" }}
         />
       </a>
      <br />
@@ -42,7 +42,7 @@ function Portfolio() {
         <img
           src="./image/codequiz.png"
           alt="codequiz"
-          style={{ width: "30%" }}
+          style={{ width: "55%" }}
         />
       </a>
       <br />
@@ -51,7 +51,7 @@ function Portfolio() {
         <img
           src="./image/notetaker.png"
           alt="note taker"
-          style={{ width: "30%" }}
+          style={{ width: "55%" }}
         />
       </a>
       <br />
@@ -59,12 +59,12 @@ function Portfolio() {
         <img
           src="./image/memberspage.png"
           alt="members page entrance"
-          style={{ width: "30%" }}
+          style={{ width: "55%" }}
         />
       </a>
       <br />
       <a href="https://aqueous-taiga-71567.herokuapp.com/">
-        <img src="./image/brrger.png" alt="burger" style={{ width: "30%" }} />
+        <img src="./image/brrger.png" alt="burger" style={{ width: "55%" }} />
       </a>
       <br /> 
       <br />
@@ -73,7 +73,7 @@ function Portfolio() {
         <img
           src="./image/fitnesstracker.png"
           alt="fitnesstracker"
-          style={{ width: "25%" }}
+          style={{ width: "55%" }}
         />
       </a>
       <br />
@@ -83,7 +83,7 @@ function Portfolio() {
         <img
           src="./image/moviedine2.png"
           alt="StreamGrug"
-          style={{ width: "25%" }}
+          style={{ width: "55%" }}
         />
       </a>
       <br />
@@ -93,7 +93,7 @@ function Portfolio() {
         <img
           src="./image/memebate.png"
           alt="MemeBate"
-          style={{ width: "25%" }}
+          style={{ width: "55%" }}
         />
       </a>
       <br />
@@ -106,23 +106,23 @@ function Portfolio() {
         <img
           src="./image/github logo1.jpeg"
           alt="Github"
-          style={{ width: "15%" }}
+          style={{ width: "10%" }}
         />
         <br />
         <br />
-        <h6>Check out my Github 👈</h6>
+        <h6 className="Git-hub">Check out my Github 👈</h6>
       </a>
       <br />
       <br />
       <a className="nav-link" href="/artwork">
-        <h4>Click here to view some of my sketches 👈</h4>
+        <h4 className="art-link">Click here to view some of my sketches 👈</h4>
       </a>
       <br />
       <br />
       <img
         src="./image/digitalbadge.png"
         alt="coding badge"
-        style={{ width: "10%" }}
+        style={{ width: "15%" }}
       />
       <br />
     </div>
