@@ -6,7 +6,7 @@ body {
 /* Header */
 
 .header {
-  background-color: #141c26;
+  background-color: #143257;
   box-sizing: border-box;
 }
 
@@ -50,7 +50,7 @@ h5 {
 
 .main-pic {
   position: relative;
-  top: 40px;
+  top: 45px;
   margin: auto;
 }
 
@@ -62,19 +62,6 @@ h5 {
   margin: 40px 40px 0px 20px;
 }
 
-/* Badge */
-
-.badge {
-  width: 100px;
-  height: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: auto;
-  position: relative;
-  top: 80px;
-  width: 100%;
-}
 
 /* Footer */
 

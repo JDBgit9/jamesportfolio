@@ -3,8 +3,8 @@
 }
 
 .title {
-    position: relative;
-    right: 190px;
+   display: flex;
+ 
 }
 
 h6 {
