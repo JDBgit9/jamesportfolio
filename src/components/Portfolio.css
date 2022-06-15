@@ -1,4 +1,4 @@
-
+body 
 
   .navbar {
     box-sizing: content-box;
@@ -14,28 +14,22 @@
     border-top: 3px;
   }
 
-  h3 {
+  h2, h3, h4, h5, h6 {
     color: #FF0095;
   }
 
-h2 {
-  color: aliceblue;
-}
+
 
 h4 {
-  color: #FF0095;
+ 
   font-size: 30px;
 }
-h5 {
-  color: #FF0095;
-}
-h6 {
-  color: #FF0095;
-}
+
 text {
 color: azure;
 }
-fname {
+
+.fname {
 color: azure;
 }
 
