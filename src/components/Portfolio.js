@@ -5,10 +5,10 @@ function Portfolio() {
   const dir = "./image";
   return (
     <div>
-      <h2>My Portfolio</h2>
+      <h2 className="port-head">My Portfolio</h2>
       <br />
     
-      <hr />
+
 
       <a href="https://jdbgit9.github.io/Tin-Dogger/">
         <img
@@ -17,7 +17,7 @@ function Portfolio() {
           style={{ width: "30%" }}
         />
       </a>
-      <b />
+      <br />
   
       <p></p>
       <a href="https://jdbgit9.github.io/Weather-App/">
@@ -37,6 +37,7 @@ function Portfolio() {
         />
       </a>
      <br />
+     <br />
       <a href="https://jdbgit9.github.io/Code-Quiz/index.html">
         <img
           src="./image/codequiz.png"
@@ -45,6 +46,7 @@ function Portfolio() {
         />
       </a>
       <br />
+      <br />
       <a href="https://notes-9.herokuapp.com/">
         <img
           src="./image/notetaker.png"
@@ -52,7 +54,7 @@ function Portfolio() {
           style={{ width: "30%" }}
         />
       </a>
-   
+      <br />
       <a href="https://theartroom.herokuapp.com/">
         <img
           src="./image/memberspage.png"

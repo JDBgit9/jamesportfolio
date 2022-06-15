@@ -1,18 +1,20 @@
-body 
+
 
   .navbar {
     box-sizing: content-box;
     margin-top: auto;
   
   } 
+
+.port-head {
+  margin: 40px 40px 20px 100px;
+}
+
   .column-md-8 {
     margin: 30px;
   }
 
-  .hr {
-    color: antiquewhite;
-    border-top: 3px;
-  }
+
 
   h2, h3, h4, h5, h6 {
     color: #FF0095;
