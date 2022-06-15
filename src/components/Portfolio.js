@@ -7,10 +7,7 @@ function Portfolio() {
     <div>
       <h3>My Portfolio</h3>
       <br />
-      <p>
-        Scroll down and click on the images to take you the application for your
-        perusal. Enjoy!
-      </p>
+    
       <hr />
       <h5>TinDog</h5>
       <a href="https://jdbgit9.github.io/Tin-Dogger/">

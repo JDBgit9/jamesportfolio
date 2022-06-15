@@ -2,7 +2,10 @@ body {
   background-color: #FF0095;
   background-repeat: no-repeat;
   background-size: cover;
+  margin: 0%;
+  padding: 0%;
 }
+
 .img-fluid {
   max-width: 100%;
   max-height: 100%;
