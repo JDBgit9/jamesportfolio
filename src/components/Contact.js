@@ -9,7 +9,7 @@ function Contact() {
     <h4>Contact Me</h4>
   <div className="row">
     <div className="col-md-8">
-    <form method="post" action="mailto:jamesthejust99@outlook.com" >
+    <form method="post" action="mailto:justiscode@outlook.com" >
         <label for="fname" style={{color: "seashell"}}>First Name</label>
         <input type="text" id="fname" name="firstname" placeholder="Your first name.." />
         <label for="lname" style={{color: "seashell"}}>Last Name</label>
