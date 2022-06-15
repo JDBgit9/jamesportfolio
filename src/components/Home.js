@@ -31,8 +31,7 @@ function Home() {
                 {" "}
                 Hi, I'm James and I am a certified Full-Stack Web Developer who
                 is a graduate of the University of Central Florida with a
-                certificate degree in Coding. I have worked on projects that
-                require extensive knowledge of HTML, CSS, JS, Bootstrap,
+                certificate degree in Coding. I have extensive knowledge of HTML, CSS, JavaScript, Bootstrap,
                 Node.js, mySQl, NoSQL, Dbeaver, Mongodb, Sequelize, Yarn,
                 Heroku, express, REACTjs, and more.
                 I am excited to see where this journey will take me and I am
