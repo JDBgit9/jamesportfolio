@@ -55,6 +55,18 @@ function Portfolio() {
         />
       </a>
       <br />
+      <br />
+
+      <a href="https://jdbgit9.github.io/Workout-Tracker/">
+        <img
+          src="./image/fitnesstracker.png"
+          alt="fitnesstracker"
+          style={{ width: "55%" }}
+        />
+      </a>
+      <br />
+      <br />
+
       <a href="https://theartroom.herokuapp.com/">
         <img
           src="./image/memberspage.png"
@@ -67,16 +79,6 @@ function Portfolio() {
         <img src="./image/brrger.png" alt="burger" style={{ width: "55%" }} />
       </a>
       <br /> 
-      <br />
-     
-      <a href="https://jdbgit9.github.io/Workout-Tracker/">
-        <img
-          src="./image/fitnesstracker.png"
-          alt="fitnesstracker"
-          style={{ width: "55%" }}
-        />
-      </a>
-      <br />
       <br />
     
       <a href="https://jdbgit9.github.io/StreamGrub/">
