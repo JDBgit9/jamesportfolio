@@ -57,7 +57,7 @@ function Portfolio() {
       <br />
       <br />
 
-      <a href="https://jdbgit9.github.io/Workout-Tracker/">
+      <a href="https://work-0ut.herokuapp.com/">
         <img
           src="./image/fitnesstracker.png"
           alt="fitnesstracker"
