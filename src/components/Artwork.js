@@ -19,7 +19,7 @@ function Artwork() {
       <hr className="lineBreak" />
 
       <div className="row">
-        <div className="col-lg-4 sketches">
+        <div className="col-lg-6 sketches">
           <img src="./image/josh.jpg" alt="Josh" style={{ width: "100%" }} />
           <br />
           <br />
