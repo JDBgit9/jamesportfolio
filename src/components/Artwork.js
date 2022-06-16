@@ -14,55 +14,55 @@ function Artwork() {
           <br />
           <br />
           <hr className="lineBreak" />
-          <img src="./image/josh.jpg" alt="Josh" style={{width: "60%"}} />
+          <img src="./image/josh.jpg" alt="Josh" style={{width: "40%"}} />
           <br />
           <br />
-          <img src="./image/facialemotes.jpg" alt="facial emotions" style={{width: "60%"}} />
+          <img src="./image/facialemotes.jpg" alt="facial emotions" style={{width: "40%"}} />
           <br />
           <br />
-          <img src="./image/ballsketch.jpg" alt="Ball" style={{width: "60%"}} />
+          <img src="./image/ballsketch.jpg" alt="Ball" style={{width: "40%"}} />
           <br />
           <br />
-          <img src="./image/bottlesketch.jpg" alt="Bottle" style={{width: "60%"}} />
+          <img src="./image/bottlesketch.jpg" alt="Bottle" style={{width: "40%"}} />
           <br />
           <br />
-          <img src="./image/virtualpark.jpg" alt="theme park map" style={{width: "60%"}} />
+          <img src="./image/virtualpark.jpg" alt="theme park map" style={{width: "40%"}} />
           <br />
           <br />
-          <img src="./image/virtualentry.jpg" alt="theme park city view" style={{width: "60%"}} />
+          <img src="./image/virtualentry.jpg" alt="theme park city view" style={{width: "40%"}} />
           <br />
           <br />
-          <img src="./image/memebate.jpg" alt="Sattelight" style={{width: "60%"}} />
-          <p>Wireframe sketches for an app I am creating called MemeBate</p>
+          <img src="./image/memebate.jpg" alt="Sattelight" style={{width: "40%"}} />
+          
           <br />
           <br />
           <img src="./image/memebatedraft.jpg" alt="MemeBate wireframe" style={{width: "60%"}} />
           <br />
           <br />
-          <img src="./image/sattelite1.jpeg" alt="Sattelight" style={{width: "60%" }} />
+          <img src="./image/sattelite1.jpeg" alt="Sattelight" style={{width: "40%" }} />
           <p>A new superhero Character I am developing named Sattelight (Working title)</p>
           <br />
           <br />
-          <img src="./image/sattelite2.jpeg" alt="Sattelight" style={{width: "60%" }} />
+          <img src="./image/sattelite2.jpeg" alt="Sattelight" style={{width: "40%" }} />
           <br />
           <br />
-          <img src="./image/satteliteschema.jpg" alt="Sattelight" style={{width: "60%" }} />
+          <img src="./image/satteliteschema.jpg" alt="Sattelight" style={{width: "40%" }} />
           <br />
           <br />
           <p>I like to make up my own maps of new cities, this is Justis City</p>
-          <img src="./image/justiscity.jpg" alt="Justis City Map" style={{width: "60%"}} />
+          <img src="./image/justiscity.jpg" alt="Justis City Map" style={{width: "40%"}} />
           <br />
           <br />
-          <img src='./image/justiscityview.jpg' alt='justiscity Bay' style={{width: "60%"}} />
+          <img src='./image/justiscityview.jpg' alt='justiscity Bay' style={{width: "40%"}} />
           <br />
           <br />
-          <img src="./image/sslegendpf2.jpg" alt="SSLegend Space craft" style={{width: "60%"}} />
+          <img src="./image/sslegendpf2.jpg" alt="SSLegend Space craft" style={{width: "40%"}} />
           <br />
           <br />
-          <img src="./image/shiplegend.jpg" alt="SSlegend Design" style={{width: "60%"}} />
+          <img src="./image/shiplegend.jpg" alt="SSlegend Design" style={{width: "40%"}} />
           <br />
           <br />
-          <img src="./image/sslegendpf1.jpg" alt="SSLegend sketch" style={{width: "60%"}} />
+          <img src="./image/sslegendpf1.jpg" alt="SSLegend sketch" style={{width: "40%"}} />
         </div>
     );
 }
