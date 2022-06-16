@@ -5,11 +5,11 @@ function Artwork() {
   return (
     <div>
       <p className="intro">
-        I am a problem solver, a fast learner, and very professional with strong
+        I am a problem solver, a fast learner, professional, and known for my strong
         wit, so I am a blast to be around. I have always been in a creative mind
-        space as my foundation is in the performing arts and want to bring my
-        creativity to the developer industry. As an web design and new media and
-        am building my portfolio and gaining more knowledge each day as a
+        space as my foundation is in the performing arts and I desire to bring my
+        creativity into the developer industry. As an artist with background in web design and new media I
+        am continually building my portfolio and gaining more knowledge each day as a
         developer.
       </p>
       <br />
@@ -19,7 +19,7 @@ function Artwork() {
       <hr className="lineBreak" />
 
       <div className="row">
-        <div className="col-lg-4">
+        <div className="col-lg-4 sketches">
           <img src="./image/josh.jpg" alt="Josh" style={{ width: "100%" }} />
           <br />
           <br />
