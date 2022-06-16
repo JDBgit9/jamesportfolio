@@ -21,7 +21,7 @@ function Portfolio() {
       <br />
 
       <a href="https://pic-search.herokuapp.com/">
-        
+        <img src=".image/cats.png" alt="cats" style={{ width: "55%"}} />
       </a>
 
       <p></p>
