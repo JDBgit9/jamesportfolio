@@ -30,16 +30,16 @@ function Portfolio() {
         </a>
         <br />
         <br />
-
-        <a href="https://6278331b098bd11537dbb012--countdown-timer-solutions.netlify.app/">
+        <a href="https://notes-9.herokuapp.com/">
           <img
-            src="./image/countdown.png"
-            alt="countdown API page"
+            src="./image/notetaker.png"
+            alt="note taker"
             style={{ width: "80%" }}
           />
         </a>
         <br />
         <br />
+
       </div>
 
       <div className="col-4 two-col">
@@ -61,15 +61,16 @@ function Portfolio() {
         </a>
         <br />
         <br />
-        <a href="https://notes-9.herokuapp.com/">
+        <a href="https://6278331b098bd11537dbb012--countdown-timer-solutions.netlify.app/">
           <img
-            src="./image/notetaker.png"
-            alt="note taker"
+            src="./image/countdown.png"
+            alt="countdown API page"
             style={{ width: "80%" }}
           />
         </a>
         <br />
         <br />
+    
         <a href="https://work-0ut.herokuapp.com/">
           <img
             src="./image/fitnesstracker.png"
