@@ -2,7 +2,7 @@ import React from "react";
 import "./Portfolio.css";
 
 function Portfolio() {
-  const dir = "./image";
+
   return (
     <div className="row">
       <div className="col-4 one-col">
