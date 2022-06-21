@@ -4,8 +4,7 @@ import "./Home.css";
 // Home
 
 function Home() {
-  return (
-   
+  return ( 
     <div className="container-fluid">   
         <div className="row">
           <div className="col">

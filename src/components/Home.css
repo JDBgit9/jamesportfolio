@@ -8,6 +8,8 @@ body {
 .header {
   background-color: #143257;
   box-sizing: border-box;
+  align-self: center;
+  max-width: 1440px;
 }
 
 /* Fonts */
@@ -48,16 +50,20 @@ h5 {
 
 /* About Me */
 
+.col {
+  margin: 0px 20px 20px 0px;
+}
+
 .main-pic {
   position: relative;
-  top: 45px;
-  margin: auto;
+  top: 30px;
+  margin: ;
 }
 
 .p-tag {
   max-width: 700px;
   display: flex;
-  text-align: right;
+  text-align: left;
   justify-content: right;
   margin: 40px 40px 0px 20px;
 }
