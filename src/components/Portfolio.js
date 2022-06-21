@@ -103,6 +103,12 @@ function Portfolio() {
         <br />
         <br />
 
+        <a href="https://aqueous-taiga-71567.herokuapp.com/">
+          <img src="./image/brrger.png" alt="burger" style={{ width: "80%" }} />
+        </a>
+        <br />
+        <br />
+
         <a href="https://theartroom.herokuapp.com/">
           <img
             src="./image/memberspage.png"
@@ -112,11 +118,7 @@ function Portfolio() {
         </a>
         <br />
         <br />
-        <a href="https://aqueous-taiga-71567.herokuapp.com/">
-          <img src="./image/brrger.png" alt="burger" style={{ width: "80%" }} />
-        </a>
-        <br />
-        <br />
+    
         <div />
 
         <div className="col-lg-4">
