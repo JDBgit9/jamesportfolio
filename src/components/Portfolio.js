@@ -39,7 +39,6 @@ function Portfolio() {
         </a>
         <br />
         <br />
-
       </div>
 
       <div className="col-4 two-col">
@@ -70,7 +69,7 @@ function Portfolio() {
         </a>
         <br />
         <br />
-    
+
         <a href="https://work-0ut.herokuapp.com/">
           <img
             src="./image/fitnesstracker.png"
@@ -118,44 +117,16 @@ function Portfolio() {
         </a>
         <br />
         <br />
-    
-        <div />
-
-        <div className="col-lg-4">
           <a href="https://memebate.herokuapp.com/">
             <img
               src="./image/memebate.png"
               alt="MemeBate"
-              style={{ width: "65%" }}
+              style={{ width: "80%" }}
             />
           </a>
           <br />
           <br />
-      <div />
-     <div className="col-md-4">
-          <img
-            src="./image/nerdlook.png"
-            alt="headshot"
-            style={{ width: "65%" }}
-          />
-      </div>
-          <a href="https://github.com/JDBgit9"></a>
-          <br />
-          <br />
-        </div>
-        <img
-          src="./image/github logo1.jpeg"
-          alt="Github"
-          style={{ width: "10%" }}
-        />
-
-        <br />
-        <br />
-        <img
-          src="./image/digitalbadge.png"
-          alt="coding badge"
-          style={{ width: "15%" }}
-        />
+        <div />
       </div>
     </div>
   );

@@ -26,6 +26,16 @@ right: 30px;
  
 }
 
+.four-clm {
+  position: relative;
+  right: 700px;
+}
+
+.five-clm {
+position: relative;
+left: 200px;
+
+}
   h2, h3, h4, h5, h6 {
     color: #FF0095;
   }
