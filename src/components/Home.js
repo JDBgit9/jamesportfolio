@@ -6,16 +6,18 @@ import "./Home.css";
 function Home() {
   return ( 
     <div className="container-fluid">   
-        <div className="row">
-          <div className="col">
+      <div className="row">
+          <div className="col-6">
+          
             <img
               src="./image/portfolioicon.jpg"
               style={{ width: "100%" }}
               className="main-pic"
               alt="coder"
             />
+          </div>
             <section>
-              <div className="p-tag">
+              <div className="col-6 p-tag">
                 <p>
                   {" "}
                   Hi, I'm James and I am a certified Full-Stack Web Developer
@@ -30,10 +32,8 @@ function Home() {
             </section>
             <br />
             <br />
-          </div>
-        </div>
       </div>
-  
+   </div>
   );
 }
 
