@@ -5,7 +5,12 @@ function Portfolio() {
   return (
     <div className="row">
       <div className="one-clm">
-      
+
+      <a href="https://jamesjustis.com">
+        <img src="./image/jjdotcom.png" alt="responsive html/css website" style={{ width: "80%"}} />
+      </a>
+      <br />
+      <br />
         <a href="https://jdbgit9.github.io/Tin-Dogger/">
           <img
             src="./image/tindog.png"
