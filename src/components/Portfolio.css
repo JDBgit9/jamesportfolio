@@ -8,10 +8,14 @@
 
  .one-col {
   margin-top: 30px;
+  position: relative;
+  right: 20px;
  }
 
 .two-col {
 margin-top: 30px;
+position: relative;
+right: 20px;
 }
 
 

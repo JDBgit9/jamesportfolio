@@ -5,7 +5,7 @@ function Portfolio() {
   const dir = "./image";
   return (
     <div className="row">
-      <div className="col-md-4 one-col">
+      <div className="col-4 one-col">
         <a href="https://jdbgit9.github.io/Tin-Dogger/">
           <img
             src="./image/tindog.png"
@@ -19,7 +19,8 @@ function Portfolio() {
         <a href="https://pic-search.herokuapp.com/">
           <img src="./image/cats.png" alt="cats" style={{ width: "80%" }} />
         </a>
-
+        <br />
+        <br />
         <a href="https://jdbgit9.github.io/Weather-App/">
           <img
             src="./image/weatherapp2.png"
@@ -41,7 +42,7 @@ function Portfolio() {
         <br />
       </div>
 
-      <div className="col-md-4 two-col">
+      <div className="col-4 two-col">
         <a href="https://jdbgit9.github.io/Password-Generator/">
           <img
             src="./image/passwordgen.png"
@@ -80,7 +81,7 @@ function Portfolio() {
         <br />
       </div>
 
-      <div className="col-md-4 three-clm">
+      <div className="col-4 three-clm">
         <a href="https://shimmering-sopapillas-3df067.netlify.app/">
           <img
             src="./image/shortly.png"
@@ -117,7 +118,7 @@ function Portfolio() {
         <br />
         <div />
 
-        <div className="col-md-8">
+        <div className="col-lg-4">
           <a href="https://memebate.herokuapp.com/">
             <img
               src="./image/memebate.png"
@@ -126,13 +127,15 @@ function Portfolio() {
             />
           </a>
           <br />
-
           <br />
+      <div />
+     <div className="col-md-4">
           <img
             src="./image/nerdlook.png"
             alt="headshot"
             style={{ width: "65%" }}
           />
+      </div>
           <a href="https://github.com/JDBgit9"></a>
           <br />
           <br />
