@@ -72,6 +72,10 @@ function Portfolio() {
       <br />
       <br />
 
+      <a href="https://shimmering-sopapillas-3df067.netlify.app/">
+        <img src="./image/shortly.png" alt="landing page" style={{ width: "55%" }}
+      </a>
+
       <a href="https://theartroom.herokuapp.com/">
         <img
           src="./image/memberspage.png"
