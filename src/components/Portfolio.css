@@ -10,11 +10,13 @@
   margin: 40px 40px 20px 100px;
 }
 
-  .column-md-8 {
+  .column-lg-6 {
     margin: 30px;
   }
 
-
+.two-col {
+  margin-top: 50px;
+}
 
   h2, h3, h4, h5, h6 {
     color: #FF0095;
