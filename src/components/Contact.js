@@ -8,7 +8,7 @@ function Contact() {
 <div className="container">
     <h4>Contact Me</h4>
   <div className="row">
-    <div className="col-md-8">
+    <div className="col">
     <form method="post" action="mailto:justiscode@outlook.com" >
         <label for="fname" style={{color: "seashell"}}>First Name</label>
         <input type="text" id="fname" name="firstname" placeholder="Your first name.." />
@@ -46,15 +46,13 @@ function Contact() {
       </form>
       <br />
       <p>Follow me on linkedin</p>
-      <div className="col-md-8-text-center">
-        <a href="https://www.linkedin.com/in/jamesjustis/"><img src="./image/linkedin.jpeg"  alt='LinkedIn logo' style={{width: "10%", padding: "0px", margin: "7%"}}/></a>
-        <img src="./image/digitalbadge.png" style={{width: "10%"}} />
-      </div>
+      <div className="container-fluid bttm-btn">   
+            <a href="https://www.linkedin.com/in/justiscode/"><img src="./image/linkedin.jpeg"  alt='LinkedIn logo' style={{width: "10%", padding: "0px", margin: "7%"}}/></a>
+           <img src="./image/digitalbadge.png" style={{width: "10%"}} /> 
     </div>
   </div>
-  </div>
-
-
+ </div>
+</div>
     )
 }
 
