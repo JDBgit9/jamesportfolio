@@ -34,6 +34,17 @@ function Portfolio() {
       </a>
       <br />
       <br />
+
+      <a href="https://6278331b098bd11537dbb012--countdown-timer-solutions.netlify.app/">
+        <img
+          src="./image/countdown.png"
+          alt="countdown API page"
+          style={{ width: "55%" }}
+        />
+      </a>
+      <br />
+      <br />
+
       <a href="https://jdbgit9.github.io/Password-Generator/">
         <img
           src="./image/passwordgen.png"
@@ -73,8 +84,20 @@ function Portfolio() {
       <br />
 
       <a href="https://shimmering-sopapillas-3df067.netlify.app/">
-        <img src="./image/shortly.png" alt="landing page" style={{ width: "55%" }}
+        <img src="./image/shortly.png" alt="landing page" style={{ width: "55%" }} />
       </a>
+      <br />
+      <br />
+
+      <a href="https://jdbgit9.github.io/StreamGrub/">
+        <img
+          src="./image/moviedine2.png"
+          alt="StreamGrug"
+          style={{ width: "55%" }}
+        />
+      </a>
+      <br />
+      <br />
 
       <a href="https://theartroom.herokuapp.com/">
         <img
@@ -90,27 +113,17 @@ function Portfolio() {
       <br /> 
       <br />
     
-      <a href="https://jdbgit9.github.io/StreamGrub/">
-        <img
-          src="./image/moviedine2.png"
-          alt="StreamGrug"
-          style={{ width: "55%" }}
-        />
-      </a>
-      <br />
-      <br />
-    
       <a href="https://memebate.herokuapp.com/">
         <img
           src="./image/memebate.png"
           alt="MemeBate"
-          style={{ width: "55%" }}
+          style={{ width: "25%" }}
         />
       </a>
       <br />
     
       <br />
-      <img src="./image/nerdlook.png" alt="headshot" style={{ width: "25%" }} />
+      <img src="./image/nerdlook.png" alt="headshot" style={{ width: "45%" }} />
       <a href="https://github.com/JDBgit9">
         <br />
         <br />
@@ -118,24 +131,16 @@ function Portfolio() {
           src="./image/github logo1.jpeg"
           alt="Github"
           style={{ width: "10%" }}
-        />
-        <br />
-        <br />
-        <h6 className="Git-hub">Check out my Github 👈</h6>
+        />         
       </a>
       <br />
-      <br />
-      <a className="nav-link" href="/artwork">
-        <h4 className="art-link">Click here to view some of my sketches 👈</h4>
-      </a>
-      <br />
-      <br />
+      <br/>
       <img
         src="./image/digitalbadge.png"
         alt="coding badge"
         style={{ width: "15%" }}
       />
-      <br />
+    
     </div>
   );
 }
