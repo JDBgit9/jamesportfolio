@@ -2,10 +2,10 @@ import React from "react";
 import "./Portfolio.css";
 
 function Portfolio() {
-
   return (
     <div className="row">
-      <div className="col-4 one-col">
+      <div className="one-clm">
+      
         <a href="https://jdbgit9.github.io/Tin-Dogger/">
           <img
             src="./image/tindog.png"
@@ -41,7 +41,7 @@ function Portfolio() {
         <br />
       </div>
 
-      <div className="col-4 two-col">
+      <div className="two-clm">
         <a href="https://jdbgit9.github.io/Password-Generator/">
           <img
             src="./image/passwordgen.png"
@@ -81,7 +81,7 @@ function Portfolio() {
         <br />
       </div>
 
-      <div className="col-4 three-clm">
+      <div className="three-clm">
         <a href="https://shimmering-sopapillas-3df067.netlify.app/">
           <img
             src="./image/shortly.png"
@@ -117,16 +117,15 @@ function Portfolio() {
         </a>
         <br />
         <br />
-          <a href="https://memebate.herokuapp.com/">
-            <img
-              src="./image/memebate.png"
-              alt="MemeBate"
-              style={{ width: "80%" }}
-            />
-          </a>
-          <br />
-          <br />
-        <div />
+        <a href="https://memebate.herokuapp.com/">
+          <img className="btm-pic"
+            src="./image/memebate.png"
+            alt="MemeBate"
+            style={{ width: "80%" }}
+          />
+        </a>
+        <br />
+        <br />
       </div>
     </div>
   );
