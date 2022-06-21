@@ -6,8 +6,6 @@ function Portfolio() {
   return (
     <div className="row">
       <div className="col-md-4 one-col">
-
-
         <a href="https://jdbgit9.github.io/Tin-Dogger/">
           <img
             src="./image/tindog.png"
@@ -22,7 +20,6 @@ function Portfolio() {
           <img src="./image/cats.png" alt="cats" style={{ width: "80%" }} />
         </a>
 
-        <p></p>
         <a href="https://jdbgit9.github.io/Weather-App/">
           <img
             src="./image/weatherapp2.png"
@@ -32,7 +29,7 @@ function Portfolio() {
         </a>
         <br />
         <br />
-    
+
         <a href="https://6278331b098bd11537dbb012--countdown-timer-solutions.netlify.app/">
           <img
             src="./image/countdown.png"
@@ -42,10 +39,9 @@ function Portfolio() {
         </a>
         <br />
         <br />
-        </div>
+      </div>
 
-
-        <div className="col-md-4 two-col">
+      <div className="col-md-4 two-col">
         <a href="https://jdbgit9.github.io/Password-Generator/">
           <img
             src="./image/passwordgen.png"
@@ -72,61 +68,56 @@ function Portfolio() {
           />
         </a>
         <br />
-        <br />   
-          <a href="https://work-0ut.herokuapp.com/">
-            <img
-              src="./image/fitnesstracker.png"
-              alt="fitnesstracker"
-              style={{ width: "80%" }}
-            />
-          </a>
-          <br />
-          <br />
-</div>
+        <br />
+        <a href="https://work-0ut.herokuapp.com/">
+          <img
+            src="./image/fitnesstracker.png"
+            alt="fitnesstracker"
+            style={{ width: "80%" }}
+          />
+        </a>
+        <br />
+        <br />
+      </div>
 
+      <div className="col-md-4 three-clm">
+        <a href="https://shimmering-sopapillas-3df067.netlify.app/">
+          <img
+            src="./image/shortly.png"
+            alt="landing page"
+            style={{ width: "80%" }}
+          />
+        </a>
+        <br />
+        <br />
 
- <div className="col-md-4 three-clm">
-          <a href="https://shimmering-sopapillas-3df067.netlify.app/">
-            <img
-              src="./image/shortly.png"
-              alt="landing page"
-              style={{ width: "80%" }}
-            />
-          </a>
-          <br />
-          <br />
+        <a href="https://jdbgit9.github.io/StreamGrub/">
+          <img
+            src="./image/moviedine2.png"
+            alt="StreamGrug"
+            style={{ width: "80%" }}
+          />
+        </a>
+        <br />
+        <br />
 
-          <a href="https://jdbgit9.github.io/StreamGrub/">
-            <img
-              src="./image/moviedine2.png"
-              alt="StreamGrug"
-              style={{ width: "80%" }}
-            />
-          </a>
-          <br />
-          <br />
-       
-          <a href="https://theartroom.herokuapp.com/">
-            <img
-              src="./image/memberspage.png"
-              alt="members page entrance"
-              style={{ width: "80%" }}
-            />
-          </a>
-          <br />
-          <br />
-          <a href="https://aqueous-taiga-71567.herokuapp.com/">
-            <img
-              src="./image/brrger.png"
-              alt="burger"
-              style={{ width: "80%" }}
-            />
-          </a>
-          <br />
-          <br />
-<div />
+        <a href="https://theartroom.herokuapp.com/">
+          <img
+            src="./image/memberspage.png"
+            alt="members page entrance"
+            style={{ width: "80%" }}
+          />
+        </a>
+        <br />
+        <br />
+        <a href="https://aqueous-taiga-71567.herokuapp.com/">
+          <img src="./image/brrger.png" alt="burger" style={{ width: "80%" }} />
+        </a>
+        <br />
+        <br />
+        <div />
 
-<div className="col-md-8">
+        <div className="col-md-8">
           <a href="https://memebate.herokuapp.com/">
             <img
               src="./image/memebate.png"
