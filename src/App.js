@@ -6,7 +6,7 @@ import Home from "./components/Home";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import Artwork from './components/Artwork';
+
 
 
 
@@ -23,9 +23,6 @@ function App() {
            <Route path="/portfolio">
             <Portfolio />
           </Route>
-          <Route path="/artwork">
-            <Artwork />
-            </Route>
         <Route path="/">
           <Home/>
         </Route>

@@ -1,3 +1,7 @@
+.header {
+max-width: 1480px;
+}
+
 .navbar-toggler {
     color: #FF0095;
 }
