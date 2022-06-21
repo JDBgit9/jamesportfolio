@@ -1,5 +1,10 @@
 .header {
-max-width: 1480px;
+max-width: 1000px;
+}
+
+.navbar-nav {
+    position: relative;
+    right: 200px;
 }
 
 .navbar-toggler {
