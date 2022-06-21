@@ -10,13 +10,17 @@
 h1 {
     size: 4px;
 }
+
 h4 {
   color: #FF0095;
   font-size: 30px;
+  margin-right: 60px;
 }
+
 text {
 color: azure;
 }
+
 fname {
 color: azure;
 }
