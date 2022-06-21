@@ -6,21 +6,20 @@ function Portfolio() {
   return (
     <div className="row">
       <div className="col-md-4 one-col">
-        <h2 className="port-head">My Portfolio</h2>
-        <br />
+
 
         <a href="https://jdbgit9.github.io/Tin-Dogger/">
           <img
             src="./image/tindog.png"
             alt="tinder for dog app"
-            style={{ width: "90%" }}
+            style={{ width: "80%" }}
           />
         </a>
         <br />
         <br />
 
         <a href="https://pic-search.herokuapp.com/">
-          <img src="./image/cats.png" alt="cats" style={{ width: "85%" }} />
+          <img src="./image/cats.png" alt="cats" style={{ width: "80%" }} />
         </a>
 
         <p></p>
@@ -28,7 +27,7 @@ function Portfolio() {
           <img
             src="./image/weatherapp2.png"
             alt="weather API page"
-            style={{ width: "75%" }}
+            style={{ width: "80%" }}
           />
         </a>
         <br />
@@ -38,7 +37,7 @@ function Portfolio() {
           <img
             src="./image/countdown.png"
             alt="countdown API page"
-            style={{ width: "85%" }}
+            style={{ width: "80%" }}
           />
         </a>
         <br />
@@ -51,7 +50,7 @@ function Portfolio() {
           <img
             src="./image/passwordgen.png"
             alt="password generator"
-            style={{ width: "85%" }}
+            style={{ width: "80%" }}
           />
         </a>
         <br />
@@ -60,7 +59,7 @@ function Portfolio() {
           <img
             src="./image/codequiz.png"
             alt="codequiz"
-            style={{ width: "65%" }}
+            style={{ width: "80%" }}
           />
         </a>
         <br />
@@ -69,7 +68,7 @@ function Portfolio() {
           <img
             src="./image/notetaker.png"
             alt="note taker"
-            style={{ width: "65%" }}
+            style={{ width: "80%" }}
           />
         </a>
         <br />
@@ -78,7 +77,7 @@ function Portfolio() {
             <img
               src="./image/fitnesstracker.png"
               alt="fitnesstracker"
-              style={{ width: "75%" }}
+              style={{ width: "80%" }}
             />
           </a>
           <br />
@@ -86,12 +85,12 @@ function Portfolio() {
 </div>
 
 
- <div className="col-md-4">
+ <div className="col-md-4 three-clm">
           <a href="https://shimmering-sopapillas-3df067.netlify.app/">
             <img
               src="./image/shortly.png"
               alt="landing page"
-              style={{ width: "65%" }}
+              style={{ width: "80%" }}
             />
           </a>
           <br />
@@ -101,7 +100,7 @@ function Portfolio() {
             <img
               src="./image/moviedine2.png"
               alt="StreamGrug"
-              style={{ width: "65%" }}
+              style={{ width: "80%" }}
             />
           </a>
           <br />
@@ -111,15 +110,16 @@ function Portfolio() {
             <img
               src="./image/memberspage.png"
               alt="members page entrance"
-              style={{ width: "65%" }}
+              style={{ width: "80%" }}
             />
           </a>
+          <br />
           <br />
           <a href="https://aqueous-taiga-71567.herokuapp.com/">
             <img
               src="./image/brrger.png"
               alt="burger"
-              style={{ width: "65%" }}
+              style={{ width: "80%" }}
             />
           </a>
           <br />
