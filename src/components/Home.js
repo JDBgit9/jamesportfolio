@@ -16,17 +16,17 @@ function Home() {
       </div>
       <div className="container-fluid">
         <div className="row">
-          <div className="col-sm-3">
+          <div className="col">
             <img
               src="./image/portfolioicon.jpg"
               style={{ width: "100%" }}
               className="main-pic"
               alt="coder"
             />
-          </div>
+        
       
           <section>
-            <div className="col-sm-9 p-tag">
+            <div className="p-tag">
               <p>
                 {" "}
                 Hi, I'm James and I am a certified Full-Stack Web Developer who
@@ -43,7 +43,7 @@ function Home() {
           <br />
           <br />
           <br />
-         
+        </div>
         </div>
       </div>
     </div>

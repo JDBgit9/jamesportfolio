@@ -25,11 +25,6 @@ function Portfolio() {
           <br />
           <br />
 
-          <a href="https://pic-search.herokuapp.com/">
-            <img src="./image/cats.png" alt="cats" style={{ width: "80%" }} />
-          </a>
-          <br />
-          <br />
           <a href="https://jdbgit9.github.io/Weather-App/">
             <img
               src="./image/weatherapp2.png"
@@ -48,7 +43,12 @@ function Portfolio() {
           </a>
           <br />
           <br />
-
+      
+          <a href="https://pic-search.herokuapp.com/">
+            <img src="./image/cats.png" alt="cats" style={{ width: "80%" }} />
+          </a>
+          <br />
+          <br />
        
           <a href="https://jdbgit9.github.io/Password-Generator/">
               <img
