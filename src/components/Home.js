@@ -5,16 +5,8 @@ import "./Home.css";
 
 function Home() {
   return (
-    <div>
-    
-      <div className="wrapper">
-        <div className="container-mt-4">
-          <div className="row">
-            <div className="col-md-9-bg-white"></div>
-          </div>
-        </div>
-      </div>
-      <div className="container-fluid">
+   
+    <div className="container-fluid">   
         <div className="row">
           <div className="col">
             <img
@@ -23,30 +15,26 @@ function Home() {
               className="main-pic"
               alt="coder"
             />
-        
-      
-          <section>
-            <div className="p-tag">
-              <p>
-                {" "}
-                Hi, I'm James and I am a certified Full-Stack Web Developer who
-                is a graduate of the University of Central Florida with a
-                certificate degree in Coding. I have extensive knowledge of HTML, CSS, JavaScript, Bootstrap,
-                Node.js, mySQl, NoSQL, Dbeaver, Mongodb, Sequelize, Yarn,
-                Heroku, express, REACTjs, and more.
-                I am excited to see where this journey will take me and I am
-                honored to be a part of your team.
-              </p>
-            </div>
-          </section>
-          <br />
-          <br />
-          <br />
-          <br />
-        </div>
+            <section>
+              <div className="p-tag">
+                <p>
+                  {" "}
+                  Hi, I'm James and I am a certified Full-Stack Web Developer
+                  who is a graduate of the University of Central Florida with a
+                  certificate degree in Coding. I have extensive knowledge of
+                  HTML, CSS, JavaScript, Bootstrap, Node.js, mySQl, NoSQL,
+                  Dbeaver, Mongodb, Sequelize, Yarn, Heroku, express, REACTjs,
+                  and more. I am excited to see where this journey will take me
+                  and I am honored to be a part of your team.
+                </p>
+              </div>
+            </section>
+            <br />
+            <br />
+          </div>
         </div>
       </div>
-    </div>
+  
   );
 }
 
