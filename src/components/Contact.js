@@ -48,7 +48,7 @@ function Contact() {
       <p>Follow me on linkedin</p>
       <div className="container-fluid bttm-btn">   
             <a href="https://www.linkedin.com/in/justiscode/"><img src="./image/linkedin.jpeg"  alt='LinkedIn logo' style={{width: "10%", padding: "0px", margin: "7%"}}/></a>
-           <img src="./image/digitalbadge.png" style={{width: "10%"}} /> 
+           <img src="./image/digitalbadge.png" alt="GitHub Icon" style={{width: "10%"}} /> 
     </div>
   </div>
  </div>
