@@ -43,6 +43,15 @@ function Portfolio() {
           </a>
           <br />
           <br />
+          <a href="https://todo-app-one-beta.vercel.app/">
+            <img
+              src="./image/todo.png"
+              alt="note taker"
+              style={{ width: "80%" }}
+            />
+          </a>
+          <br />
+          <br />
       
           <a href="https://pic-search.herokuapp.com/">
             <img src="./image/cats.png" alt="cats" style={{ width: "80%" }} />
