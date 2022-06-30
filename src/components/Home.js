@@ -1,40 +1,28 @@
 import React from "react";
 import "./Home.css";
 
-// Home
-
 function Home() {
-  return ( 
-    <div className="container-fluid">   
-      <div className="row">
-          <div className="col-6">
-          
-            <img
-              src="./image/portfolioicon.jpg"
-              style={{ width: "100%" }}
-              className="main-pic"
-              alt="coder"
-            />
-          </div>
-            <section>
-              <div className="col-6 p-tag">
-                <p>
-                  {" "}
-                  Hi, I'm James and I am a certified Full-Stack Web Developer
-                  who is a graduate of the University of Central Florida with a
-                  certificate degree in Coding. I have extensive knowledge of
-                  HTML, CSS, JavaScript, Bootstrap, Node.js, mySQl, NoSQL,
-                  Dbeaver, Mongodb, Sequelize, Yarn, Heroku, express, REACTjs,
-                  and more. I am excited to see where this journey will take me
-                  and I am honored to be a part of your team.
-                </p>
-              </div>
-            </section>
-            <br />
-            <br />
-      </div>
-   </div>
-  );
+  return (
+    <div className="about-body">
+      <link href="https://fonts.googleapis.com/css?family=Roboto:100" rel="stylesheet" />
+<p id='head1' className='header'>Awesome designs</p>
+<p id='head2' className='header'>Just</p>
+<p id='head3' className='header'>For you</p>
+<p id='head4' className='header'>simple and awesome all the time</p>
+<p id='head5' className='header'>Welcome to BA designs</p>
+<button>Continue</button>
+  <div className='light x1'></div>
+  <div className='light x2'></div>
+  <div className='light x3'></div>
+  <div className='light x4'></div>
+  <div className='light x5'></div>
+  <div className='light x6'></div>
+  <div className='light x7'></div>
+  <div className='light x8'></div>
+  <div className='light x9'></div>
+    </div>
+
+    );
 }
 
 export default Home;
