@@ -22,8 +22,11 @@ function App() {
            <Route path="/portfolio">
             <Portfolio />
           </Route>
+          <Route path={"/about"}>
+            <About />
+          </Route>
         <Route path="/">
-          <Home/>
+          <Home />
         </Route>
       </Switch>
      </main>
