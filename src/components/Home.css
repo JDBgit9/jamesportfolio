@@ -196,7 +196,7 @@ button:focus{
   100%{top: -100vh; opacity: 0;}
 }
 
-.header{
+.header1{
   position: absolute;
   top: 40%;
   left: 50%;
