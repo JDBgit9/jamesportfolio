@@ -1,6 +1,7 @@
 import React from "react";
 import "./Home.css";
 
+
 function Home() {
   return (
     <div className="about-body">
@@ -9,8 +10,8 @@ function Home() {
 <p id='head2' className='header1'>Just</p>
 <p id='head3' className='header1'>For you</p>
 <p id='head4' className='header1'>simple and awesome all the time</p>
-<p id='head5' className='header1'>Welcome to BA designs</p>
-<button>Continue</button>
+<p id='head5' className='header1'>Welcome to JustisCode designs</p>
+<button><a className="nav-link" href="/about">Continue</a></button>
   <div className='light x1'></div>
   <div className='light x2'></div>
   <div className='light x3'></div>
