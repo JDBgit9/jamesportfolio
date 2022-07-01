@@ -11,7 +11,7 @@ function About() {
           
             <img
               src="./image/portfolioicon.jpg"
-              style={{ width: "100%" }}
+              style={{ width: "70%" }}
               className="main-pic"
               alt="coder"
             />
