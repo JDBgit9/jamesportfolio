@@ -8,36 +8,36 @@
     margin: 30px;
   }
 h1 {
+  
     size: 4px;
 }
 
 h4 {
   color: #FF0095;
   font-size: 30px;
-  margin-right: 60px;
+  margin: 150px 40px -10px 40px;
 }
 
-text {
+text, 
+.fname,
+.lname,
+subject {
 color: azure;
+margin: 10px 0px 60px -30px;
 }
 
-fname {
-color: azure;
-}
-lname {}
 
 input, label {
   display: block;
 }
  /* Style inputs with type="text", select elements and textareas  */
 input[type=text], select, textarea {
-  width: 50%;  
+  width: 25%;  
   padding: 10px;  
    border: 1px solid #ccc;  
    border-radius: 10px; 
    box-sizing: border-box; 
-   margin-top: 20px;  
-   margin-bottom: 30px;  
+   margin: 10px 0px 60px -30px;
    resize: vertical; 
 }    
 
