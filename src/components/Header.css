@@ -15,7 +15,11 @@ margin: -300px 0px 10px -90px;
 }
 
 .collapse, .navbar-collapse {
-margin: 140px 20px 50px 0px;
+margin: -50px 20px 0px 0px;
+}
+
+.nav-link, .active {
+    margin: 100px 0px 0px 10px;
 }
 
 .title {
