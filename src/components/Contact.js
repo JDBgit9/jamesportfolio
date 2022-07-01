@@ -6,7 +6,7 @@ function Contact() {
     <div className="container">
       <h4>Contact Me</h4>
       <div className="row">
-        <div className="col">
+        <div className="col col-lg-6">
           <div className="card">
             <form method="post" action="mailto:justiscode@outlook.com">
               <label for="fname" style={{ color: "seashell" }}>
@@ -71,13 +71,13 @@ function Contact() {
           <p className="fllw-msg">Follow me on linkedin</p>
           <div className="container-fluid bttm-btn">
             <a href="https://www.linkedin.com/in/justiscode/">
-              <img
+              <img className="img-one"
                 src="./image/linkedin.jpeg"
                 alt="LinkedIn logo"
-                style={{ width: "10%", padding: "0px", margin: "7%" }}
+                style={{ width: "10%" }}
               />
             </a>
-            <img
+            <img className="img-two"
               src="./image/digitalbadge.png"
               alt="GitHub Icon"
               style={{ width: "10%" }}
