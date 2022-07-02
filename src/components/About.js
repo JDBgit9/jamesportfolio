@@ -1,12 +1,12 @@
 import React from "react";
 import "./About.css";
-import "./Header.js";
 
-// Home
+
+// About
 
 function About() {
   return ( 
-    <div className="container-fluid">   
+
       <div className="row">
           <div className="col-6">
           
@@ -33,7 +33,7 @@ function About() {
             </section>
             <br />
             <br />
-      </div>
+
    </div>
   );
 }

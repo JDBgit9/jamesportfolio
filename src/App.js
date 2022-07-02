@@ -17,15 +17,15 @@ function App() {
      <Header />
      <main>
       <Switch>
+      <Route path="/about">
+            <About />
+          </Route>
         <Route path="/contact">
           <Contact/>
          </Route>
            <Route path="/portfolio">
             <Portfolio />
-          </Route>
-          <Route path="/about">
-            <About />
-          </Route>
+          </Route>  
         <Route path="/">
           <Home />
         </Route>

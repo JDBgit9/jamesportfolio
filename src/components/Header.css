@@ -10,17 +10,14 @@
 }
 
 .navbar-toggler {
-margin: -300px 0px 10px -90px;
+margin: -300px 0px 10px 0px;
 
 }
 
-.collapse, .navbar-collapse {
-margin: -50px 20px 0px 0px;
+.collapse, .navbar-collapse, .nav-link, .active {
+margin: 45px 20px 0px 0px;
 }
 
-.nav-link, .active {
-    margin: 100px 0px 0px 10px;
-}
 
 .title {
    display: flex;

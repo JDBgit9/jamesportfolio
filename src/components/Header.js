@@ -27,10 +27,11 @@ function Header() {
             <a className="nav-link active" href="/">
               <span className="sr-only">(current)</span>
             </a>
-            <a className="nav-link" href="/about"><h6>About</h6></a>
+            
             <a className="nav-link" href="/portfolio">
               <h6>Portfolio</h6>
             </a>
+            <a className="nav-link" href="/about"><h6>About</h6></a>
             <a className="nav-link" href="/contact">
               <h6>Contact</h6>
             </a>
