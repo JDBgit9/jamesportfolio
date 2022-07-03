@@ -12,9 +12,11 @@
     color: #FF0095;
   }
 
+  img {
+    size: 50%;
+  }
 
 h4 {
- 
   font-size: 30px;
 }
 

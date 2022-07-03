@@ -4,7 +4,7 @@ import "./Contact.css";
 function Contact() {
   return (
     <div className="container">
-      <h4>Contact Me</h4>
+      <h4 className="title-h4">Contact Me</h4>
       <div className="row">
         <div className="col col-lg-6">
           <div className="card">

@@ -12,10 +12,10 @@ h1 {
     size: 4px;
 }
 
-h4 {
+.title-h4 {
   color: #FF0095;
   font-size: 30px;
-  margin: 100px 40px -10px 80px;
+  margin: 100px 40px -160px 60px;
 }
 
 .card{

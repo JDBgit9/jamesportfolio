@@ -5,12 +5,12 @@ function Portfolio() {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col clm-one">
+        <div className="col-lg-4 col-lg-8 clm-one">
           <a href="https://jamesjustis.com">
             <img
               src="./image/jjdotcom.png"
               alt="responsive html/css bootstrap website"
-              style={{ width: "80%" }}
+              style={{ width: "50%" }}
             />
           </a>
           <br />
