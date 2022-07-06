@@ -5,7 +5,7 @@ function Portfolio() {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col-lg-3 clm-one">
+        <div className="col-lg-4 clm-one">
           <a href="https://jamesjustis.com">
             <img
               src="./image/jjdotcom.png"
@@ -44,8 +44,7 @@ function Portfolio() {
           </a>
           <br />
           <br />
-        </div>
-       <div className="col-lg-3 clm-two">
+       
           <a href="https://todo-app-one-beta.vercel.app/">
             <img
               src="./image/todo.png"
@@ -55,7 +54,8 @@ function Portfolio() {
           </a>
           <br />
           <br />
-
+          </div>
+       <div className="col-lg-4 clm-two">
           <a href="https://pic-search.herokuapp.com/">
             <img src="./image/cats.png" alt="cats" style={{ width: "100%" }} />
           </a>
@@ -80,8 +80,7 @@ function Portfolio() {
           </a>
           <br />
           <br />
-        </div>
-       <div className="col-lg-3 clm-three">
+   
           <a href="https://6278331b098bd11537dbb012--countdown-timer-solutions.netlify.app/">
             <img
               src="./image/countdown.png"
@@ -91,7 +90,8 @@ function Portfolio() {
           </a>
           <br />
           <br />
-
+          </div>
+       <div className="col-lg-4 clm-three">
           <a href="https://work-0ut.herokuapp.com/">
             <img
               src="./image/fitnesstracker.png"
@@ -106,7 +106,7 @@ function Portfolio() {
             <img
               src="./image/shortly.png"
               alt="landing page"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
@@ -121,13 +121,13 @@ function Portfolio() {
           </a>
           <br />
           <br />
-        </div>
-         <div className="col-lg-3 clm-four">
+     
+        
           <a href="https://aqueous-taiga-71567.herokuapp.com/">
             <img
               src="./image/brrger.png"
               alt="burger"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
