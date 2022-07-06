@@ -8,14 +8,14 @@ h1 {
 .title-h4 {
   color: #FF0095;
   font-size: 30px;
-  margin: 150px 40px -160px 60px;
+  margin: 100px 40px -160px 60px;
 }
 
 .card{
 width: 75%;
-height: 70%;
+height: 65%;
 padding: 10px;
-margin: 200px 40px 20px 20px;
+margin: 150px 40px 20px 20px;
 background-color: #FF0095;
 
 }
