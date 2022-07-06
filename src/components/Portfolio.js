@@ -5,12 +5,12 @@ function Portfolio() {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col-lg-4 col-lg-8 clm-one">
+        <div className="col-lg-3 clm-one">
           <a href="https://jamesjustis.com">
             <img
               src="./image/jjdotcom.png"
               alt="responsive html/css bootstrap website"
-              style={{ width: "50%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
@@ -19,7 +19,7 @@ function Portfolio() {
             <img
               src="./image/tindog.png"
               alt="tinder for dog app"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
@@ -29,32 +29,35 @@ function Portfolio() {
             <img
               src="./image/weatherapp2.png"
               alt="weather API page"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
           <br />
+         
           <a href="https://notes-9.herokuapp.com/">
             <img
               src="./image/notetaker.png"
               alt="note taker"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
           <br />
+        </div>
+       <div className="col-lg-3 clm-two">
           <a href="https://todo-app-one-beta.vercel.app/">
             <img
               src="./image/todo.png"
               alt="note taker"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
           <br />
 
           <a href="https://pic-search.herokuapp.com/">
-            <img src="./image/cats.png" alt="cats" style={{ width: "80%" }} />
+            <img src="./image/cats.png" alt="cats" style={{ width: "100%" }} />
           </a>
           <br />
           <br />
@@ -63,7 +66,7 @@ function Portfolio() {
             <img
               src="./image/passwordgen.png"
               alt="password generator"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
@@ -72,16 +75,18 @@ function Portfolio() {
             <img
               src="./image/codequiz.png"
               alt="codequiz"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
           <br />
+        </div>
+       <div className="col-lg-3 clm-three">
           <a href="https://6278331b098bd11537dbb012--countdown-timer-solutions.netlify.app/">
             <img
               src="./image/countdown.png"
               alt="countdown API page"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
@@ -91,7 +96,7 @@ function Portfolio() {
             <img
               src="./image/fitnesstracker.png"
               alt="fitnesstracker"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
@@ -111,12 +116,13 @@ function Portfolio() {
             <img
               src="./image/moviedine2.png"
               alt="StreamGrug"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
           <br />
-
+        </div>
+         <div className="col-lg-3 clm-four">
           <a href="https://aqueous-taiga-71567.herokuapp.com/">
             <img
               src="./image/brrger.png"
@@ -131,7 +137,7 @@ function Portfolio() {
             <img
               src="./image/memberspage.png"
               alt="members page entrance"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />
@@ -141,7 +147,7 @@ function Portfolio() {
               className="btm-pic"
               src="./image/memebate.png"
               alt="MemeBate"
-              style={{ width: "80%" }}
+              style={{ width: "100%" }}
             />
           </a>
           <br />

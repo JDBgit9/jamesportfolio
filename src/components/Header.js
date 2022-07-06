@@ -5,7 +5,7 @@ function Header() {
   return (
     <div className="container-fluid header">
       <div className="row">
-        <div className="col-lg-4 col-lg-4 col-lg-4">
+        <div className="col-lg-6 col-lg-6" style={{ color: "pink"}}>
           <nav className="navbar navbar-expand-lg navbar-light bg-grey">
             <a href="/" className="navbar-brand header">
               <h1 className="title">JustisCode</h1>

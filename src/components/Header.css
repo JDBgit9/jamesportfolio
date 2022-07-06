@@ -1,23 +1,37 @@
 .header {
     position: fixed;
     top: 0%;
-    width: 290%;
-    margin-bottom: 250%;
+    width: 100%;
+  
+
 }
 
 
 #navbarNavAltMarkup {
-    color: rgb(244, 237, 237);
+
+   
 }
 
-.navbar-toggler {
-margin: -300px 0px 200px 0px;
+/*.navbar-toggler {
+position: fixed;
+top: -400px;
+height: 5%;
 
 }
 
-.collapse, .navbar-collapse, .nav-link, .active {
+.nav-link, .active {
 margin: 45px 20px 0px 0px;
 }
+
+.collapse {
+
+}
+
+.navbar-collapse {
+    margin: 10px 10px 40px 10px;
+  
+
+}*/
 
 
 .title {

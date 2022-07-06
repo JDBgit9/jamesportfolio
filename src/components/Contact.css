@@ -4,8 +4,8 @@
     margin-top: auto;
   
   } 
-  .column-md-8 {
-    margin: 30px;
+  .col-4 {
+    margin: 100px;
   }
 h1 {
   
@@ -20,6 +20,7 @@ h1 {
 
 .card{
 width: 75%;
+height: 25%;
 padding: 10px;
 margin: -110px 40px 20px 20px;
 background-color: #FF0095;
