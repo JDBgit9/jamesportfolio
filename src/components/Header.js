@@ -4,8 +4,7 @@ import "./Header.css";
 function Header() {
   return (
     <div className="header">
-     
-          <nav className="navbar navbar-expand-lg navbar-dark bg-grey">
+          <nav className="navbar navbar-expand-lg navbar-dark bg-grey" style={{backgroundColor: "#6e2c45"}}>
             <a href="/" className="navbar-brand header">
               <h1 className="title">JustisCode</h1>
             </a>

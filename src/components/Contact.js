@@ -4,9 +4,12 @@ import "./Contact.css";
 function Contact() {
   return (
     <div className="container">
-      <h4 className="title-h4">Contact Me</h4>
+    
       <div className="row">
-        <div className="col-4 col-8">
+      <div col-4>
+      <h4 className="title-h4">Contact Me</h4>
+      </div>
+        <div className="col-8">
           <div className="card">
             <form method="post" action="mailto:justiscode@outlook.com">
               <label for="fname" style={{ color: "seashell" }}>
