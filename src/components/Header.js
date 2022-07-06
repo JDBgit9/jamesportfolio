@@ -5,12 +5,12 @@ function Header() {
   return (
     <div className="row">
      <div className="col header">
-          <nav className="navbar navbar-expand-lg navbar-dark bg-grey" style={{ width: "100%", backgroundColor: "#6e2c45"}}>
+          <nav className="navbar navbar-expand-lg navbar-dark bg-grey" style={{ width: "150%", backgroundColor: "#6e2c45"}}>
             <a href="/" className="navbar-brand header">
               <h1 className="title">JustisCode</h1>
             </a>
             <button
-              className="navbar-toggler" style={{ width: "20%", marginBottom: "-60px", backgroundColor: "#6e2c45" }}
+              className="navbar-toggler" style={{ width: "17%", margin: "-380px 190px 40px 52%", backgroundColor: "#6e2c45" }}
               type="button"
               data-toggle="collapse"
               data-target="#navbarNavAltMarkup"
