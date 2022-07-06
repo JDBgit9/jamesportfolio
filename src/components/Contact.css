@@ -1,12 +1,5 @@
 
-  .navbar {
-    box-sizing: content-box;
-    margin-top: auto;
-  
-  } 
-  .col-4 {
-    margin: 100px;
-  }
+
 h1 {
   
     size: 4px;
@@ -15,14 +8,14 @@ h1 {
 .title-h4 {
   color: #FF0095;
   font-size: 30px;
-  margin: 100px 40px -160px 60px;
+  margin: 150px 40px -160px 60px;
 }
 
 .card{
 width: 75%;
-height: 25%;
+height: 70%;
 padding: 10px;
-margin: -110px 40px 20px 20px;
+margin: 200px 40px 20px 20px;
 background-color: #FF0095;
 
 }
@@ -34,8 +27,6 @@ text,
 color: azure;
 margin: 10px 0px 60px -30px;
 }
-
-
 
 
 input, label {
