@@ -72,6 +72,9 @@ function Contact() {
           </div>
           <br />
           <p className="fllw-msg">Follow me on linkedin</p>
+
+          
+          
           <div className="container-fluid bttm-btn">
             <a href="https://www.linkedin.com/in/justiscode/">
               <img className="img-one"

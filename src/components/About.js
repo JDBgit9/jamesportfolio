@@ -8,14 +8,12 @@ function About() {
   return ( 
 
       <div className="row">
-          <div className="col-6">
-          
+          <div className="col-6">        
             <img
               src="./image/portfolioicon.jpg"
-              style={{ width: "70%" }}
+              style={{ width: "100%" }}
               className="main-pic"
-              alt="coder"
-            />
+              alt="coder"/>
           </div>
             <section>
               <div className="col-6 p-tag">

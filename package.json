@@ -6,10 +6,14 @@
     "node": "16.15.0"
   },
   "dependencies": {
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "babel-install": "^2.1.0",
+    "babel-plugin-macros": "^3.1.0",
     "fs": "^0.0.1-security",
     "inquirer": "^8.2.2",
     "react": "^17.0.1",
@@ -20,7 +24,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
