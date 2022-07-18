@@ -1,15 +1,17 @@
 
+
+
  .clm-one {
-margin-top: 200px;
+margin-top: 100px;
   
  }
 
  .clm-two {
- margin-top: 200px;
+ margin-top: 100px;
  }
 
  .clm-three {
-  margin-top: 200px;
+  margin-top: 100px;
 
  }
  .clm-four {
@@ -21,9 +23,7 @@ margin-top: 200px;
     color: #FF0095;
   }
 
-  img {
-    size: 50%;
-  }
+
 
 h4 {
   font-size: 30px;
