@@ -3,12 +3,15 @@ import React from 'react';
 
 function Footer() {
     return (
-     <div className='container-fluid-foot'>
-        <div className="col footer text-center" style={{ width: "100%", position: "fixed"}} >
-            <p className="foot-text" style={{ width: "100%", textAlign: "center", backgroundColor: "#6e2c45", 
+        
+     <div className='container' style={{ maxWidth: "150%" }}>
+     <div className='wrapper' style={{maxWidth: "1400px" }}>
+        <div className="footer text-center" style={{ width: "100%" }} >
+            <p className="foot-text" style={{ width: "100%", textAlign: "center", backgroundColor: "", 
             marginBottom: "0%", height: "50px" }}>James Justis | GitHub: JDBgit9 | email: justiscode@outlook.com. &copy; 2022</p>
         </div>
      </div> 
+     </div>
     )
 }
 
